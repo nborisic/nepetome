@@ -1,0 +1,67 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": [
+    "plugin:prettier/recommended",
+    "plugin:import/recommended",
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "ignorePatterns": ["**/*.bundle.js", "**/dist/**"],
+  "plugins": ["prettier"],
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
+  },
+  "rules": {
+    "no-shadow": 0,
+    "no-use-before-define": 0,
+    "no-unused-vars": 1,
+    "no-nested-ternary": 0,
+    "no-sparse-arrays": 0,
+    "react/destructuring-assignment": 0,
+    "react/jsx-filename-extension": 0,
+    "jsx-a11y/anchor-is-valid": 0,
+    "react/prop-types": 0,
+    "react/require-default-props": 0,
+    "react/jsx-props-no-spreading": 0,
+    "react/no-unescaped-entities": 0,
+    "import/extensions": 0,
+    "import/prefer-default-export": 0,
+    "import/no-anonymous-default-export": 0,
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": true,
+        "optionalDependencies": false,
+        "peerDependencies": false
+      }
+    ],
+    "import/no-named-as-default-member": 0,
+    "eol-last": ["error", "always"],
+    "no-underscore-dangle": 0,
+    "curly": [1, "all"],
+    "camelcase": 0
+  },
+  "overrides": [
+    {
+      "files": ["*.spec.js", "*.spec.tsx"],
+      "env": {
+        "jest": true
+      }
+    }
+  ]
+}
