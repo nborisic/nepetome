@@ -1,25 +1,28 @@
 // import Logo from './logo.svg';
-import './App.scss';
-import { ReactComponent as Logo } from './logo.svg';
+// import './App.scss';
+import { useEffect } from 'react';
+import { Routes, Route } from 'react-router-dom';
+import axios from 'axios';
+import Layout from './components/layout';
+import Homepage from './pages/homepage';
 
 function App() {
+  const token = process.env.REACT_APP_STRAPI_ACC_TOKEN;
+  useEffect(async () => {
+    const { data } = await axios.get('http://localhost:1337/api/homepage', {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+    console.log(data);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <Logo />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          test1
-        </a>
-      </header>
-    </div>
+    <Layout>
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+      </Routes>
+    </Layout>
   );
 }
 

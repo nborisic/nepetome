@@ -1,0 +1,81 @@
+/* stylelint-disable selector-class-pattern */
+@import 'src/style/base.scss';
+
+.modalLayout {
+  position: fixed;
+  z-index: $layer-10;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  margin-top: $header-height;
+  background-color: rgba(18, 22, 25, 0.6);
+}
+
+.modalWrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline;
+  height: calc(100 * var(--vh));
+  background-color: transparent;
+}
+
+.modal {
+  width: 100%;
+  height: calc(100 * var(--vh));
+  background-color: $white;
+  overflow-y: auto;
+}
+
+.modalLayout:global(.ReactModal__Overlay) {
+  opacity: 0;
+}
+
+.modalLayout:global(.ReactModal__Overlay--after-open) {
+  opacity: 1;
+  transition: opacity $duration-2 $easing-entrance-expressive;
+}
+
+.modalLayout:global(.ReactModal__Overlay--before-close) {
+  opacity: 0;
+  transition: $duration-2 opacity $duration-2 $easing-exit-expressive;
+}
+
+.modalWrapper:global(.ReactModal__Content) {
+  transform: translateX(100%);
+}
+
+.modalWrapper:global(.ReactModal__Content--after-open) {
+  transform: translateX(0);
+  transition: transform $duration-2 $easing-entrance-expressive;
+}
+
+.modalWrapper:global(.ReactModal__Content--before-close) {
+  transform: translateX(100%);
+  transition: transform $duration-2 $easing-exit-expressive;
+}
+
+.slideNavigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.tab {
+  padding: 1rem 1.5rem;
+  background: $white;
+  transition: all $duration-1;
+
+  &:hover {
+    background-color: $light-gray;
+  }
+}
+
+.tabActive {
+  background-color: $medium-gray;
+  color: $white;
+
+  &:hover {
+    background-color: $medium-gray;
+  }
+}

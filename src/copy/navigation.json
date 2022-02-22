@@ -1,0 +1,16 @@
+{
+  "srb": {
+    "home": "O projektu",
+    "news": "Novosti",
+    "participants": "Učesnici",
+    "publications": "Publikacije",
+    "gallery": "Galerija"
+  },
+  "en": {
+    "home": "About the project",
+    "news": "News",
+    "participants": "Participants",
+    "publications": "Publications",
+    "gallery": "Gallery"
+  }
+}

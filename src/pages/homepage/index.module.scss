@@ -1,0 +1,15 @@
+@import 'src/style/base.scss';
+
+.homepage {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  @include header2;
+  text-align: center;
+
+  @include md {
+    width: 60%;
+  }
+}

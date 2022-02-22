@@ -1,0 +1,53 @@
+@use 'sass:math';
+
+:root {
+  --vh: 1vh;
+}
+
+// --------- COLORS
+$black: #000;
+$white: #FFF;
+$light-gray: #EDECEC;
+$medium-gray: #ABABAB;
+
+
+// --------- SPACINGS
+
+
+// --------- CUSTOM WIDTHS
+
+
+// --------- LAYERS
+
+$layer-0: 0;
+$layer-1: 100;
+$layer-2: 200;
+$layer-3: 300;
+$layer-4: 400;
+$layer-5: 500;
+$layer-6: 600;
+$layer-7: 700;
+$layer-8: 800;
+$layer-9: 900;
+$layer-10: 1000;
+
+// --------- ANIMATIONS
+
+$easing-standard-productive: cubic-bezier(0.2, 0, 0.38, 0.9);
+$easing-entrance-expressive: cubic-bezier(0, 0, 0.3, 1);
+$easing-exit-expressive: cubic-bezier(0.4, 0.14, 1, 1);
+
+$duration-1: 110ms;
+$duration-2: 200ms;
+
+
+$font-family-sans-serif: 'Rabelo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+// ------ Breakpoints
+$breakpoint-lg: 1100px;
+$breakpoint-md: 600px;
+
+
+$max-width: 1920px;
+
+$header-height: 54px;
