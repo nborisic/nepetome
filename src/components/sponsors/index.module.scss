@@ -1,0 +1,40 @@
+@import 'src/style/base.scss';
+
+.sponsorWrapper {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+  padding: 3rem 0;
+}
+
+.link {
+  // cursor: pointer;
+  opacity: 1;
+  transition: opacity $duration-1;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.sponsors {
+  display: block;
+  width: auto;
+  max-width: 5rem;
+  height: auto;
+  max-height:20rem;
+  flex-shrink: 0;
+
+  @include md {
+    max-width: 20rem;
+  }
+}
+
+.seanceFond {
+  max-width: 12rem;
+
+  @include md {
+    max-width: 30rem;
+  }
+}

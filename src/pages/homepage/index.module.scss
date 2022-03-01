@@ -1,15 +1,26 @@
 @import 'src/style/base.scss';
 
-.homepage {
+.logoWrapper {
   display: flex;
+  width: 100%;
   justify-content: center;
+}
+
+.logo {
+  width: 60%;
+  margin: 0 auto;
 }
 
 .title {
   @include header2;
-  text-align: center;
+  margin: 0 auto;
+  color: $red;
 
   @include md {
     width: 60%;
   }
+}
+
+.image {
+  width: 100%;
 }

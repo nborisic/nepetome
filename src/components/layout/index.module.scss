@@ -1,0 +1,5 @@
+@import 'src/style/base.scss';
+
+.layout {
+  min-height: calc(100 * var(--vh));
+}

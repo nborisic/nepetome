@@ -1,0 +1,52 @@
+@import 'src/style/base.scss';
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  padding: 4rem 0;
+  background-color: $medium-gray;
+  color: $white
+}
+
+.icon {
+  width: 2.4rem;
+  height: 2.4rem;
+  flex-shrink: 0;
+  margin-right: 1rem;
+}
+
+.iconLink {
+  opacity: 1;
+  transition: opacity $duration-1;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.innerWrapper {
+  flex-basis: 0.5;
+}
+
+.socialTextWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.socialIcons {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 3.4rem;
+}
+
+.contactWrapper {
+  display: flex;
+  flex-direction: column;
+  padding-left: 3.4rem;
+}

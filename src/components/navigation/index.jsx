@@ -1,21 +1,24 @@
 import NavTabs from '../navigationTabs';
 import Hamburger from 'hamburger-react';
-
-import { Link, useLocation } from 'react-router-dom';
+import Container from '../container';
+import logo from '../../assets/images/logo-circle.png';
 
 import styles from './index.module.scss';
 
 const Navigation = ({ isOpen, setOpen }) => {
   return (
-    <div className={styles.wrapper}>
-      <div className={styles.innerWrapper}>
-        <div className={styles.title}>NEPETOME</div>
-        <NavTabs />
-        <div className={styles.hamburger}>
-          <Hamburger toggled={isOpen} toggle={setOpen} />
+    <Container className={styles.container}>
+      <div className={styles.wrapper}>
+        <div className={styles.innerWrapper}>
+          <img src={logo} alt="logo" className={styles.logo} />
+          {/* <div className={styles.title}>NEPETOME</div> */}
+          <NavTabs />
+          <div className={styles.hamburger}>
+            <Hamburger toggled={isOpen} toggle={setOpen} />
+          </div>
         </div>
       </div>
-    </div>
+    </Container>
   );
 };
 

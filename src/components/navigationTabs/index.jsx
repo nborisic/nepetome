@@ -7,10 +7,9 @@ import styles from './index.module.scss';
 
 const NavigationTabs = () => {
   const location = useLocation();
-
   const language = 'srb';
 
-  const links = ['home', 'news', 'participants', 'publications', 'gallery'];
+  const links = Object.keys(routes);
 
   return (
     <>

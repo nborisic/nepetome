@@ -1,0 +1,10 @@
+@import 'src/style/base.scss';
+
+.main {
+  max-width: $container-max-width;
+  min-height: calc(var(--vh) * 100 - #{$header-height-sm} - #{$footer-height-lg});
+  padding: 0 $container-padding;
+  margin: 0 auto;
+}
+
+

@@ -7,8 +7,8 @@
 // --------- COLORS
 $black: #000;
 $white: #FFF;
-$light-gray: #EDECEC;
-$medium-gray: #ABABAB;
+$medium-gray: #7F7F7F;
+$red: #D60100;
 
 
 // --------- SPACINGS
@@ -48,6 +48,19 @@ $breakpoint-lg: 1100px;
 $breakpoint-md: 600px;
 
 
-$max-width: 1920px;
-
 $header-height: 54px;
+
+$container-max-width: 1920px;
+$container-padding: 48px;
+
+
+$header-height-sm: 54px;
+$header-height-md: 59px;
+$header-height-lg: 59px;
+
+$footer-height-sm: 367px;
+$footer-height-md: 276px;
+$footer-height-lg: 276px;
+
+
+$box-shadow: 0 1px 10px -6px rgb(0 0 0 / 42%), 0 1px 10px 0 rgb(0 0 0 / 12%), 0 4px 5px -2px rgb(0 0 0 / 10%);

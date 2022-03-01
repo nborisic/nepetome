@@ -12,7 +12,8 @@ const NavigationModal = ({ showModal, closeModal }) => {
   const ref = useRef(null);
 
   const location = useLocation();
-  const links = ['home', 'news', 'participants', 'publications', 'gallery'];
+  const links = Object.keys(routes);
+
   const language = 'srb';
 
   useEffect(() => {
