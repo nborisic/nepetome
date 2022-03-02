@@ -2,7 +2,12 @@
 
 .wrapper {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
+
+  @include md {
+    flex-direction: row;
+  }
 }
 
 .footer {
@@ -29,6 +34,16 @@
 
 .innerWrapper {
   flex-basis: 0.5;
+
+  &:first-child {
+    margin-bottom: 3rem;
+  }
+
+  @include md {
+    &:first-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .socialTextWrapper {

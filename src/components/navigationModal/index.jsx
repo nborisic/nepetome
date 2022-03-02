@@ -4,17 +4,17 @@ import routes from '../../utils/routes.js';
 import cx from 'classnames';
 import * as tabs from '../../copy/navigation.json';
 import { Link, useLocation } from 'react-router-dom';
+import { useLanguage } from '../language-selector/language-hook';
 import { disableBodyScroll, clearAllBodyScrollLocks } from 'body-scroll-lock';
 
 import styles from './index.module.scss';
 
 const NavigationModal = ({ showModal, closeModal }) => {
   const ref = useRef(null);
+  const { language } = useLanguage();
 
   const location = useLocation();
   const links = Object.keys(routes);
-
-  const language = 'srb';
 
   useEffect(() => {
     // On unmount clear all scroll locks
