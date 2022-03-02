@@ -18,7 +18,7 @@ const Gallery = () => {
     const {
       data: { resources },
     } = await axios.get(
-      `http://res.cloudinary.com/${cloudName}/image/list/${token}.json`,
+      `https://res.cloudinary.com/${cloudName}/image/list/${token}.json`,
     );
     const images = resources.map(image => {
       console.log(image);
