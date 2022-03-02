@@ -2,11 +2,6 @@
 @import url('https://cdn.jsdelivr.net/npm/lightgallery@2.0.0-beta.4/css/lightgallery.css');
 @import url('https://cdn.jsdelivr.net/npm/lightgallery@2.0.0-beta.4/css/lg-zoom.css');
 
-.main {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-}
-
 .ratio {
   position: relative;
   display: inline-block;
@@ -29,5 +24,6 @@
   height: 100%;
   padding: 10px;
   box-shadow: $box-shadow;
+  cursor: pointer;
   object-fit: cover;
 }

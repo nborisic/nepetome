@@ -1,0 +1,61 @@
+@import 'src/style/base.scss';
+
+.wrapper {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding: 3rem;
+  border: 1px solid $black;
+  border-radius: 1rem;
+  box-shadow: $box-shadow;
+
+  &:first-child {
+    margin-bottom: 2rem;
+  }
+
+  @include md {
+    width: 49%;
+
+    &:first-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+  color: $red;
+}
+
+.text {
+  display: -webkit-box;
+  overflow: hidden;
+  // auto-prefixer removes -webkit-box-orient
+  // https://github.com/postcss/autoprefixer/issues/776
+  /* autoprefixer: ignore next */
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
+  text-overflow: ellipsis;
+}
+
+.link {
+  align-self: flex-end;
+  margin-top: 1rem;
+  color: $red;
+  opacity: 1;
+  transition: all $duration-1;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.textWrapper {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+

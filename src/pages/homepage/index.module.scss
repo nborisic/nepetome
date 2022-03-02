@@ -24,3 +24,14 @@
 .image {
   width: 100%;
 }
+
+.cardsWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 4rem 0;
+
+  @include md {
+    flex-direction: row;
+  }
+}
