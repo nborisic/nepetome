@@ -6,6 +6,7 @@ import News from './pages/news';
 import Participants from './pages/participants';
 import Publications from './pages/publications';
 import AboutProject from './pages/aboutProject';
+
 import { LanguageProvider } from './components/language-selector/index.context';
 
 function App() {
