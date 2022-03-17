@@ -16,7 +16,6 @@ const NavigationTabs = () => {
     <>
       <div className={styles.wrapper}>
         {links.map(link => {
-          console.log(routes[link]);
           const tabClasses = cx(styles.tab, {
             [styles.tabActive]: routes[link] === location.pathname,
           });

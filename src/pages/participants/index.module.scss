@@ -1,0 +1,162 @@
+@import 'src/style/base.scss';
+
+.header {
+  @include header3;
+  margin: 0 auto;
+}
+
+.imageWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  @include footer-text;
+  margin-top: 1rem;
+}
+
+.img {
+  width: 100%;
+  width: 80%;
+  padding: 2rem 0 0.5rem;
+}
+
+.tableWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+.rowWrapper {
+  display: flex;
+  width: 80%;
+  flex-shrink: 0;
+  color: $dark-gray;
+  @include header3;
+
+  & * {
+    display: flex;
+    height: 5rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  &:first-child {
+    padding: 0.5rem 0;
+    background-color: $light-gray;
+    color: $text-red;
+    font-weight: bold;
+
+    .title {
+      border: none !important;
+    }
+  }
+
+  &:last-child {
+    border-bottom: 3px solid $light-gray;
+  }
+}
+
+.id {
+  flex-basis: 15%;
+}
+
+.title {
+  flex-basis: 60%;
+  border-right: 3px solid $light-gray;
+  border-left: 3px solid $light-gray;
+}
+
+.coordinator {
+  flex-basis: 35%;
+}
+
+.bioWrapper {
+  display: flex;
+  flex-basis: 33.33%;
+  flex-direction: column;
+  flex-shrink: 0;
+  align-items: center;
+
+  &:hover {
+    .bioImage {
+      opacity: 0.8;
+    }
+
+    .bioName {
+      color: $medium-gray;
+    }
+  }
+
+
+  &:nth-child(3n) {
+    align-items: flex-end;
+  }
+
+  &:nth-child(3n + 1) {
+    align-items: flex-start;
+  }
+
+  &:last-child:hover {
+    .bioImage {
+      opacity: 1;
+    }
+
+    .bioName {
+      color: black;
+    }
+  }
+}
+
+.pi {
+  display: flex;
+  flex-direction: column;
+}
+
+.bioContent {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.bioOuterWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bioOuterWrapper > .bioWrapper {
+  margin-bottom: 2rem;
+}
+
+.bioImage {
+  width: 22.5rem;
+  height: 22.5rem;
+  border-radius: 2000px;
+  object-fit: cover;
+  opacity: 1;
+  transition: opacity $duration-2;
+
+}
+
+.bioName {
+  display: flex;
+  width: 22.5rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  transition: color $duration-2;
+  @include header3;
+}
+
+.bioInnerWrapper {
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+  row-gap: 2rem;
+}

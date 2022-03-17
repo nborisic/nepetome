@@ -1,0 +1,1378 @@
+{
+  "srb": {
+    "name": "Ime i prezime:",
+    "title": "Naučno zvanje:",
+    "participant": "Učesnik:",
+    "birth": "Datum i mesto rođenja:",
+    "contact": "Kontakt:",
+    "link": "Link javnih baza podataka o istraživaču:",
+    "prizes": "Nagrade, priznanja i stipendije:",
+    "publications": "Pet publikacija značajnih za projekat NEPETOME:",
+    "projects": "Prethodni projekati Učesnika značajni za projekat NEPETOME:",
+    "teamMembers": [
+      {
+        "id": 0,
+        "name": "Danijela Mišić",
+        "title": "Naučni savetnik",
+        "participant": "Rukovodilac projekta NEPETOME (PI)",
+        "birth": "6. avgust 1975., Zaječar, Srbija",
+        "contact": "dmisic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0002-5419-0773",
+          "researchgate": "https://www.researchgate.net/profile/Danijela_Misic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=8687890200"
+          ]
+        },
+        "bio": "Dr Danijela Mišić je naučni savetnik u Odeljenju za fiziologiju biljaka IBISS. Na Institutu je zaposlena od 2001. godine (istraživač pripravnik, 2001-2004; istraživač saradnik, 2004-2010; naučni saradnik, 2010-2013; viši naučni saradnik, 2013-2018; naučni savetnik, 2018-do danas). Nakon što je diplomirala na Biološkom fakultetu Univerziteta u Beogradu (BF-UB), magistrirala je (2003. godine) i doktorirala (2009. godine) na istom fakultetu. Bila je na postdoktorskim studijama na Univerzitetu u Vageningenu u Holandiji (2011. godine – šest meseci). Ubrzo nakon što je doktorirala postaje rukovodilac multidisciplinarne istraživačke grupe, koja se bavi istraživanjima u oblastima fiziologije biljaka, specijalizovanog metabolizma, fiziologije stresa, molekularne biologije i genetike biljaka, kao i funkcionalne genomike i metaboličkog inženjeringa. Grupa trenutno broji 14 stalnih članova i prvenstveno je posvećena istraživanju biologije, hemije, ekologije i biotehnologije biljnih vrsta bogatih iridoidima i fenolima. Multidisciplinarni naučni pristup dr Mišić rezultirao je značajnim brojem publikacija u časopisima sa SCI liste (70), poglavljima knjiga (2) i saopštenjima sa nacionalnih i međunarodnih simpozijuma. Kvalitet njenog istraživanja predstavljen je brojem citata (963) i Hiršovim indeksom od 18, prema podacima citatne baze Scopus. Tokom svoje karijere bila je angažovana na osam domaćih i pet međunarodnih projekata. Dr Mišić je uspostavila veoma uspešne saradnje sa uglednim istraživačima iz Srbije i inostranstva (Grčka, SAD, Kina, Iran, Bugarska, Francuska, Holandija, Tajvan, Bosna i Hercegovina). Kao predsednica Društva za fiziologiju biljaka Srbije (DFBS) (od 2017. do danas), dr Danijela Mišić je posvećena umrežavanju i integraciji istraživača iz oblasti biljnih nauka, biotehnologije i poljoprivrede. Tokom protekle decenije, dr Mišić je bila član naučnih i organizacionih odbora uglednih međunarodnih konferencija u organizaciji DFBS. Član je Međunarodnog udruženja za biotehnologiju biljaka (International Association for Plant Biotechnology - IAPB), Evropskog društva za biljnu biologiju (FESPB) i Srpskog Biološkog Društva (SBD). Angažovana je kao saradnik u Centru izvrsnosti za interdisciplinarna istraživanja u biologiji pri IBISS (2020-2024), kao i član Naučnog veća IBISS (od 2013. do danas). Dr Mišić je bila recenzent 20 časopisa sa SCI liste,a  recenzirala je i dva bilateralna projekta za Ministarstvo prosvete, nauke i tehnološkog razvoja Republike Srbije. Trenutno je Koordinator za dodelu stipendija za mlade istraživače (STSM) pri projektu CostAction CA18210 (2019-2023). Bila je angažovana kao mentor tri doktorske i jedne master teze, dok je eksperimentalno doprinela u izradi jedanaest doktorskih i pet master teza.",
+        "prizes": [
+          {
+            "name": "“Norman Borlaug Fellowship”",
+            "text": "(2005. godine), dodeljena od strane Državnog sekretarijata SAD (USDA) (boravak na Univerzitetu u Ajovi, SAD, mentor Prof. Diane Bassham)."
+          },
+          {
+            "name": "Nagrada za najboljeg mladog istraživača",
+            "text": "(2006. godine), dodeljena od strane DFBS."
+          },
+          {
+            "name": "Stipendija za postdoktorske studije",
+            "text": "(2011. godine), dodeljena od strane Ministarstva prosvete i nauke Republike Srbije, za boravak u Odeljenju za Fiziologiju biljaka Univerziteta u Vageningenu u Holandiji; mentor Prof. Harro Bouwmeester (Tema: Izolacija i funkcionalna karakterizacija gena uključenih u biosintetski put seskviterpenskih laktona kod vrste Inula britannica)."
+          },
+          {
+            "name": "PIFI (President's International Fellowship Initiative)",
+            "text": "(2019. godine), stipendija Kineske akademije nauka (Chinese Academy of Sciences - CAS), za boravak u Odeljenju za hemiju prirodnih produkata na Šangajskom institutu Materia Medica (SIMM); laboratorija Prof. dr Yang Ye (Tema: Semipreparativna i preparativna izolacija iridoida iz vrsta roda Nepeta i Centaurium)."
+          }
+        ],
+        "publications": {
+          "name": "Mišić, D.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020). Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Mišić, D. (2019). Nepetalactone-rich essential oil mitigates phosphinothricin-induced ammonium toxicity in Arabidopsis thaliana (L.) Heynh. Journal of Plant Physiology 237:87-94.",
+            "Aničić, N, Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Sparks, J.T., Bohbot, J.T., Ristić, M., Mišić, D., Skorić, M., Mattoo, A., Dickens, J.D. (2018): Chemosensory responses to the repellent nepeta oil and its major component nepetalactone by the yellow fever mosquito, Aedes aegypti, a vector of Zika virus. Journal of Medicinal Enthomology 54 (4): 957-963.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. (2015); Simultaneous UHPLC/DAD/(+/_)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical Analysis 2015, 26, 72–85."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2005-2006:",
+            "name": "“Micropropagation, reintroduction and cultivation of endangered, endemic and potentially medicinal plant Nepeta rtanjensis“, sponsored by Ministry of Science and Environmental Protection of Republic of Serbia,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009-2013:",
+            "name": "“TERPMED-Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project (No. 227448),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Rukovodilac projekta."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Član MC, Koordinator za STSM."
+          },
+          {
+            "year": "2020-2021:",
+            "name": "“Mollusc bio-repellents featuring mosses”, Proof of Concept (PoC) project sponsored by the Innovation Fund of the Republic of Serbia (No. 5714),",
+            "role": "Saradnik."
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Uroš Gašić",
+        "title": "viši naučni saradnik",
+        "participant": "P1, rukovodilac radnog paketa WP1",
+        "birth": "24. novembar 1986., Šabac, Srbija",
+        "contact": "uros.gasic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-5384-8396",
+          "researchgate": "https://www.researchgate.net/profile/Uros_Gasic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=55540851800"
+          ]
+        },
+        "bio": "Dr Uroš Gašić, viši naučni saradnik, zaposlen je u Odeljenju za fiziologiju biljaka, na IBISS od 2019. godine (viši naučni saradnik, 2018-danas). Nakon sticanja diplome osnovnih studija na Hemijskom fakultetu Univerziteta u Beogradu (HF-UB), Uroš je završio master studije 2012. i doktorske akademske studije 2017. godine na istom fakultetu. Boravio je na usavršavanju u inostranstvu na Univerzitetu na Malti preko projekta ERASMUS + KA107 (2018. godine, boravak od nedelju dana) i u okviru postdoktorskih studija na Nacionalnom Institutu za Hemiju u Ljubljani (2019. godine - boravak u trajanju od tri meseca). Naučno-istraživački rad dr Gašića pripada oblasti hemije biljnih proizvoda, uključujući i specijalizovane metabolite biljaka i hemiju hrane. Nedugo nakon završetka doktorskih studija, Uroš je postao član istraživačke grupe dr Danijele Mišić na IBISS. Multidisciplinarni naučni pristup dr Gašića, i saradnja sa naučnicima iz Srbije i inostranstva (Norveška, Malta, Slovenija, Hrvatska, Turska), rezultovali su brojnim publikacijama u časopisima sa SCI liste (87), poglavljima u monografijama (2) i saopštenjima sa nacionalnih i međunarodnih simpozijuma. Kvalitet njegovih istraživanja odražava veliki broj citata (1349), kao i H-indeks od 20, prema podacima citatne baze Scopus. Dr Gašić je bio angažovan na tri nacionalna i dva međunarodna projekta tokom svoje karijere. Bio je član Organizacionih odbora domaćih i međunarodnih konferencija, kao što su „51st Meeting of the Serbian Chemical Society and 2nd Conference of Young Chemist of Serbia” 2014. godine, “Identification of Components Using High Result Screening Using Different Software” 2014. godine i “UNIFood” 2018. godine. Član je Srpskog Hemijskog Društva (SHD), Društva za fiziologiju biljaka Srbije (DFBS) i Evropskog društva za biljnu biologiju (FESPB). Dr Gašić je bio angažovan kao recenzent od strane 16 časopisa sa SCI liste (ukupno 60 recenzija). Mentor je pri izradi dve doktorske disertacije. Uroš je angažovan pri Komisijama recenzenata u dva časopisa – Biomoleculs i Metabolites. Saradnik je Centra izuzetnih vrednosti za interdisciplinarna istraživanja u biologiji IBISS (2020-2024).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Medalja za pregalaštvo i uspeh u nauci, koju dodeljuje SHD, kao priznanje za doprinos istraživanjima u oblasti hemije hrane, sa posebnim osvrtom na analizu sekundarnih metabolita biljaka (2019. godine)"
+          }
+        ],
+        "publications": {
+          "name": "Gašić, U.",
+          "project": [
+            "Cvetanović, A., Švarc-Gajić, J., Zeković, Z., Gašić, U., Tešić, Ž., Zengin, G., Mašković, P., Mahomoodally, F., Đurović, S. Subcritical water extraction as a cutting edge technology for the extraction of bioactive compounds from chamomile: Influence of pressure on chemical composition and bioactivity of extracts. Food Chemistry (2018), 266, 389-396.",
+            "Đurović, S., Vujanović, M., Radojković, M., Filipović, J., Filipović, V., Gašić, U., Tešić, Ž., Mašković, P., Zeković, Z. The Functional Food Production: Application of Stinging Nettle Leaves and its Extracts in the Baking of a Bread. Food Chemistry (2020), 312, 126091.",
+            "Zengin, G., Cvetanović, A., Gašić, U., Dragićević, M., Stupar, A., Uysal, A., Şenkardes, I., Sinan, K.I., Picot-Allain, M.C.N., Güneş, Ak, Mahomoodally, M.F. UHPLC-LTQ OrbiTrap MS analysis and biological properties of Origanum vulgare subsp. viridulum obtained by different extraction methods. Industrial Crops and Products (2020), 154, 112747.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. Simultaneous UHPLC/DAD/(+/–)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical analysis (2015), 26(1), 72-85.",
+            "Banjanac, T., Dragićević, M., Šiler, B., Gašić, U., Bohanec, B., Nestorović Živković, J., Trifunović, S., Mišić, D. Chemodiversity of two closely related tetraploid Centaurium species and their hexaploid hybrid: Metabolomic search for high-resolution taxonomic classifiers. Phytochemistry (2017), 140, 27-44."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2015-2016:",
+            "name": "Development of analytical methods for establishing authenticity of Serbian wines”, Innovation project; No. 451-03-2802-IP, Type 1/78,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2018-2022:",
+            "name": "”NIBIO project” – No. 10209 - „Agreement of Analysis between Faculty of Chemistry University of Belgrade and Norwegian Institute of Bioeconomy Research (NIBIO)“,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2022:",
+            "name": "“Norwegian fruit genetic resources - Healthy, taste & no waste“ project (scientific cooperation between University of Belgrade (Faculty of Chemistry and Faculty of Agriculture) and The Norwegian Institute of Bioeconomy Research),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds” funded by the Ministry of Education, Science and Technological Development of Republic of Serbia (broj 173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Akronim RoxyCOST),",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Branislav Šiler",
+        "title": "naučni savetnik",
+        "participant": "P2, rukovodilac radnog paketa WP2",
+        "birth": "11. februar 1977., Zemun, Srbija",
+        "contact": "branislav.siler@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-5831-6612",
+          "researchgate": "https://www.researchgate.net/profile/Branislav_Siler",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=36476764800"
+          ]
+        },
+        "bio": "Dr Branislav Šiler, naučni savetnik u Odeljenju za Fiziologiju biljaka, zaposlena je na IBISS od 2005. godine (istraživač pripravnik, 2005-2009; istraživač saradnik, 2009-2013; naučni saradnik, 2013-2016; viši naučni saradnik, 2016-2021, naučni savetnik od 2021. godine). Nakon završenih redovnih osnovnih studija na Biološkom fakultetu Univerziteta u Beogradu, Branislav je 2012. godine završio i doktorke akademske studije na istom fakultetu. Dr Šiler je uspostavio uspešnu saradnju sa istraživačima iz Srbije i iz inostranstva (Iran, Slovenija, Bugarska). Objavio je značajan broj publikacija u časopisima na SCI listi (31), dva poglavlja, kao i veliki broj saopštenja na skupovima od nacionalnog i međunarodnog značaja. Na osnovu podataka sa citacione baze Scopus, publikacije dr Šiler imaju 446 citacija, dok H-indeks citiranosti iznosi 13. Od zasnivanja radnog odnosa na IBISS, dr Šiler je bio angažovan na sedam nacionalnih i šest međunarodnih projekata. Bio je član Naučnih i Organizacionih odbora nacionalnih i međunarodnih konferencija, kao što je “International Conference on Plant Biology & Symposium of the Serbian Plant Physiology Society“ 2011., 2015. i 2018. godine, zatim “Programming for Evolutionary Biology” 2016. godine, kao i konferencija u organizaciji Srpskog Biološkog Društva (SBD). Dr Šiler je bio angažovan kao član ili rukovodilac organizacionih timova projekata popularizacije nauke – Evropska noć istraživača (2014-2015; 2016-2017; 2018-2019). Od 2019. godine predstavnik je IBISS za koordinaciju CITES. Dr Šiler je saradnik Centra izuzetnih vrednosti za interdisciplinarna istraživanja u biologiji IBISS (2020-2024), kao i član Naučnog veća IBISS (2017. – danas). Član je Društva genetičara Srbije, Društva za fiziologiju biljaka Srbije (DFBS), Evropskog društva za biljnu biologiju (FESPB) i SBD. Bio je recenzent 22 časopisa na SCI listi (63 recenzije). Bio je mentor dve doktorske disertacije. Dr Šiler je član uredničkih odbora časopisa  PLOS ONE i Journal of Medicinal Botany.",
+        "publications": {
+          "name": "Šiler, B.",
+          "project": [
+            "Hadi, N., Shojaeiyan, A., Sefidkon, F., Jafari, A.-A., Mišić, D., Banjanac, T., Šiler, B. (2020): Assessment of genetic diversity of Nepeta kotschyi Boiss., a native Iranian medicinal plant. Journal of Agricultural Science and Technology 22 (5): 1327-1342.",
+            "Banjanac, T., Đurović, S., Jelić, M., Dragićević, M., Mišić, D., Skorić, M., Nestorović Živković, J., Šiler, B. (2019): Phenotypic and genetic variation of an interspecific Centaurium hybrid and its parental species. Plants, 8(7): 224.",
+            "Banjanac, T., Dragićević, M., Šiler, B., Gašić, B., Bohanec, B., Nestorović Živković, J., Trifunović, S., Mišić, D. (2017): Chemodiversity of two closely related tetraploid Centaurium species and their hexaploid hybrid: Metabolomic search for high-resolution taxonomic classifiers. Phytochemistry, 140: 27-44.",
+            "Hadi, N., Sefidkon, F., Shojaeiyan, A., Šiler, B., Jafari, A.-A., Aničić, N., Mišić, D. (2017): Phenolics’ composition in four endemic Nepeta species from Iran cultivated under experimental field conditions: The possibility of the exploitation of Nepeta germplasm. Industrial Crops and Products, 95: 475-484.",
+            "elić, M., Patenković, A., Skorić, M., Mišić, D., Kurbalija Novičić, Z., Bordács, S., Várhidi, F., Vasić, I., Benke, A., Frank, G., Šiler, B. (2015): Indigenous forests of European black poplar along the Danube River: Genetic structure and reliable detection of introgression. Tree Genetics and Genomes, 11: 89."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2005-2006:",
+            "name": "“Micropropagation, reintroduction and field cultivation of endangered, endemic and potentially medicinal plant species Nepeta rtanjensis“, sponsored by Ministry of Science and Environmental Protection of Republic of Serbia,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009-2013:",
+            "name": "“TERPMED- Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds“, funded by the European Commission (FP7-KBBE 227448),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“, service contract financed by the South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0” - “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X-02,",
+            "role": "Rukovodilac projekta."
+          },
+          {
+            "year": "2019-2021:",
+            "name": "“Analyzes and studies of species and natural habitats subject to reporting under Art. 17 of the Habitats Directive and Art. 12 of the Birds Directive“ (BG16M1OP002-3.003-0001) at the Institute for Biological Research “Siniša Stanković“ - National Institute of Republic of Serbia, University of Belgrade,",
+            "role": "Koordinator projekta."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Slavica Dmitrović",
+        "title": "viši naučni saradnik",
+        "participant": "P3",
+        "birth": "22. avgust 1975., Sombor, Srbija",
+        "contact": "slavica.dmitrovic@ibiss.bg.ac.rs, +381 11 2078388",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0002-2621-1530",
+          "researchgate": "https://www.researchgate.net/profile/Slavica-Dmitrovic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=55461708100"
+          ]
+        },
+        "bio": "Dr Slavica Dmitrović (rođena Milivojević), viši naučni saradnik, zaposlena je na Odeljenju za fiziologiju biljaka, na IBISS-u od 2003. godine (istraživač pripravnik, 2003-2004.; istraživač saradnik, 2004-2013.; naučni saradnik, 2013-2019.; viši naučni saradnik, 2019 – do danas). Pre toga, od 2000-2003. godine, bila je zaposlena kao asistent-pripravnik na Katedri za fiziologiju biljaka Biološkog fakulteta, Univerziteta u Beogradu. Diplomirala je 2000. godine na Biološkom fakultetu, Univerziteta u Beogradu (BF-UB). Magistrirala je 2003. godine i doktorirala 2012. godine na istom fakultetu (BF-UB). Objavila je značajan broj radova (18) u časopisima sa SCI liste, kao i u drugim časopisima. Kvalitet njenog istraživanja je merljiv na osnovu mnogobrojnih citacija (120) i H indeksa (7) prema citatnoj bazi Scopus. Tokom karijere učestvovala je na 3 nacionalna i 2 međunarodna projekta. Dr Slavica Dmitrović je član Društva za fiziologiju biljaka Srbije (DFBS) i Evropskog društva za biljnu biologiju (FESPB). Učestvovala je u izradi 4 doktorske teze. Trenutno je komentor jednog master rada i učestvuje u eksperimentalnoj izradi jedne doktorske teze. Njene glavne oblasti istraživanja su biohemijske interakcije između biljaka, fiziologija stresa biljaka, molekularna biologija biljaka, biotehnologija, kao i analiza i eksploatacija bioherbicida. Dr Dmitrović je bila uključena u promociju nauke predstavljajući Odeljenje za fiziologiju biljaka, na manifestaciji „Otvorena vrata IBISS-a”,  u saradnji sa timom Noći istraživača (Researchers’ Night ReFocuS 2016-17, H2020-MSCA-NIGHT-2016-722341). Učestvovala je na Međunarodnom sajmu tehnike i tehničkih dostignuća, pod nazivom „Vreme je za nove tehnologije”, u Beogradu, 2019. godine, predstavljajući Institut za biološka istraživanja “Siniša Stanković“ Univerziteta u Beogradu.",
+        "publications": {
+          "name": "Dmitrović, S.",
+          "project": [
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Mišić, D. (2019). Nepetalactone-rich essential oil mitigates phosphinothricin-induced ammonium toxicity in Arabidopsis thaliana (L.) Heynh. Journal of Plant Physiology 237:87-94.",
+            "Dmitrović, S., Perišić, M., Stojić, A., Živković, S., Boljević, J., Nestorović Živković J., Aničić, N., Ristić, M., Mišić, D. (2015): Essential oils of two Nepeta species inhibit growth and induce oxidative stress in ragweed (Ambrosia artemisiifolia L.) shoots in vitro. Acta Physiologiae Plantarum 37 (3): 1-15.",
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020). Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Aničić, N, Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Perišić, M., Mišić, D. (2021): Antagonistic interaction between phosphinothricin and Nepeta rtanjensis essential oil affected ammonium metabolism and antioxidant defanse of Arabidopsis grown in vitro. Plants 10: 142."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2003-2005:",
+            "name": "“In vitro vegetativno i generativno razmnožavanje ugroženih biljnih vrsta, u cilju ex situ zaštite i produkcije sekundarnih metabolita” (br. 1530). ",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2006–2010:",
+            "name": "„Svetlosna i hormonalna kontrola rastenja i razvića biljaka, razmnožavanje in vitro i ex situ zaštita retkih i ugroženih vrsta” (br.143031B).",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011–2019:",
+            "name": "“Fiziološka, hemijska i molekularna analiza diverziteta retkih i ugroženih biljnih vrsta u cilju ex situ zaštite i produkcije biološki aktivnih jedinjenja” (br. 173024).",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019–2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST).",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Marijana Skorić",
+        "title": "viši naučni saradnik",
+        "participant": "P4, rukovodilac paketa WP3",
+        "birth": "10. april 1974., Beograd, Srbija",
+        "contact": "mdevic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0002-3727-4692",
+          "researchgate": "",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=54938511700"
+          ]
+        },
+        "bio": "Dr Marijana Skorić (rođena Dević), viši naučni saradnik u Odeljenju za Fiziologiju biljaka, zaposlena je na IBISS od 2001. godine (istraživač pripravnik, 2001-2005; istraživač saradnik, 2005-2015; naučni saradnik, 2015-2020; viši naučni saradnik, 2020 do danas). Dr Skorić je tokom dve godine radila u farmaceutskoj kompaniji Velefarm u Beogradu. Nakon sticanja diplome osnovnih studija na Biološkom fakultetu Univerziteta u Beogradu (smer: molekularna biologija i fiziologija) 2000. godine, magistrirala je 2005. i doktorirala 2014. na istom fakultetu. Marijana je boravila na usavršavanju u inostranstvu u Laboratoriji za Farmakognoziju Farmaceutskog fakulteta Aristotelovog Univerziteta u Solunu, u Grčkoj (2005. godine – dve nedelje). Dr Skorić je ostvarila uspešne saradnje sa kolegama iz Srbije i inostranstva (Grčka, SAD). Objavila je značajan broj publikacija u časopisima na SCI listi (25), jedno poglavlje i druge publikacije (saopštenja sa domaćih i stranih konferencija). Prema podacima citatne baze Scopus, publikacije dr Skorić su citirane 240 puta, a H-indeks iznosi 9. Tokom karijere, Marijana je učestvovala na sedam domaćih i četiri međunarodna projekta. Dr Skorić je bila angažovana kao član i/ili predsednik Organizacionog odbora međunarodnih simpozijuma biljne biologije, pod okriljem Društva za fiziologiju biljaka Srbije (DFBS) 2015. i 2018. godine. Član je DFBS i Evropskog društva za biljnu biologiju (FESPB). Bila je mentor dve master teze, a doprinela je izradi i tri doktorata i jednog master rada. Trenutno je mentor jedne doktorske teze. Dr Skorić je bila član Komisije za dodelu stipendija za učestvovanje studenata i mladih istraživača na konferenciji “Plant Biology Europe 2020”, čiji je organizator bilo FESPB. Kao vodeći stručnjak za analize RT-PCR, zajedno sa grupom istraživača sa IBISS, bila je uključena u rad laboratorije Instituta za virusologiju, vakcine i serume 'Torlak' na testiranju Covid19.",
+        "publications": {
+          "name": "Skorić, M.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020). Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Božunović, J., Skorić, M., Matekalo, D., Živković, S., Dragićević, M., Aničić, N., Filipović, B., Banjanac, T., Šiler, B. and Mišić, D., 2019. Secoiridoids Metabolism Response to Wounding in Common Centaury (Centaurium erythraea Rafn) Leaves. Plants, 8(12), p.589.",
+            "Aničić, N., Matekalo, D., Skorić, M., Pećinar, I., Brkušanin, M., Nestorović Živković, J., Dmitrović, S., Dajić Stevanović, Z., Schulz, H., Mišić, D. (2018) Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347-358.",
+            "Skorić, M., Gligorijević, N., Čavić, M., Todorović, S., Janković, R., Ristić, M., Mišić, D., Radulović, S. (2017) Cytotoxic activity of Nepeta rtanjensis Diklić & Milojević essential oil and its mode of action. Industrial Crops and Products 100 : 163-170.",
+            "Mišić, D., Šiler, B., Skorić, M., Djurickovic, M., Nestorović Živković, J., Jovanović, V., Giba, Z. (2013): Secoiridoid glycosides production by Centaurium maritimum L. Fritch hairy root cultures in temporary immersion bioreactor. Process Biochemistry 48: 1587-1591."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006–2010:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“ (South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0”, “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X‐02), ",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "MC Zamenik."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Dragana Matekalo",
+        "title": "viši naučni saradnik",
+        "participant": "P5, rukovodilac radnog paketa WP4",
+        "birth": "10. oktobar 1978., Beograd, Srbija",
+        "contact": "dragana.bozic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-6565-4580",
+          "researchgate": "https://www.researchgate.net/profile/Dragana_Matekalo",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57192233904"
+          ]
+        },
+        "bio": "Dr. Dragana Matekalo (rođena Božić), viši naučni saradnik u Odeljenju za fiziologiju biljaka, zaposlena je na IBISS od 2007. godine (istraživač pripravnik, 2007-2010; istraživač saradnik, 2010-2015; naučni saradnik, 2015-2020; viši naučni saradnik, 2020 do danas). Nakon sticanja diplome osnovnih studija na Biološkom fakultetu Univerziteta u Beogradu (BF-UB), na istom fakultetu završava master (2005. godine) i doktorske akademske studije (2014. godine). Eksperimentalni deo doktorske disertacija uradila je u laboratoriji za farmakognoziju Farmaceutskog fakulteta Aristotelovog Univerziteta u Solunu, u Grčkoj. Dr Matekalo se bavi biosintezom specijalizovanih metabolita biljaka i njihovom regulacijom na molekularnom nivou, kao i metaboličkim inženjeringom. Multidisciplinarni naučni pristup dr Matekalo i saradnja sa naučnicima iz Srbije i inostranstva (Grčka, Holandija, Nemačka) rezultovali su brojnim publikacijama u časopisima sa SCI liste (16) i drugim publikacijama (saopštenjima na domaćim i međunarodnim simpozijumima). Kvalitet njenih istraživanja prikazuje broj citata (282), kao i H-indeks (9), prema podacima citatne baze Scopus. Bila je član Organizacionih odbora domaćih i međunarodnih konferencija, uključujući simpozijume Društva za fiziologiju biljaka Srbije (DFBS) i TERPNET. Član je Društva za fiziologiju biljaka Srbije (DFBS) i Evropskog društva za biljnu biologiju (FESPB). Bila je mentor jedne doktorske disertacije i jednog master rada. Dragana je bila angažovana na manifestacijama promocije nauke, kao što su Noć Istraživača (Marie Skłodowska-Curie akcije), “Drugarijada”, koju organizuje Fondacija Novak Đoković, kao i različite aktivnosti Centra za promociju nauke (CPN). Prevela je na srpski jezik knjigu “Šta biljka zna: vodič kroz svet čula”, autora Danijela Šemovica.",
+        "publications": {
+          "name": "Božić, D.",
+          "project": [
+            "Božić, D., Papaefthimiou, D., Brückner, K., De Vos, R.C., Tsoleridis, C.A., Katsarou, D., Papanikolaou, A., Pateraki, I., Chatzopoulou, F.M., Dimitriadou, E. and Kostas, S. (2015): Towards elucidating carnosic acid biosynthesis in Lamiaceae: functional characterization of the three first steps of the pathway in Salvia fruticosa and Rosmarinus officinalis. PLoS One, 10(5), p.e0124106.",
+            "Trikka, F.A., Nikolaidis, A., Ignea, C., Tsaballa, A., Tziveleka, L.A., Ioannou, E., Roussis, V., Stea, E.A., Božić, D., Argiriou, A., Kanellis, A.K. (2015): Combined metabolome and transcriptome profiling provides new insights into diterpene biosynthesis in S. pomifera glandular trichomes. BMC Genomics, 16(1), p.935.",
+            "Scheler, U., Brandt, W., Porzel, A., Rothe, K., Manzano, D., Božić, D., Papaefthimiou, D., Balcke, G.U., Henning, A., Lohse, S. and Marillonnet, S. (2016): Elucidation of the biosynthesis of carnosic acid and its reconstitution in yeast. Nature Communications, 7, p.12942.",
+            "Matekalo, D., Skorić, M., Nikolić, T., Novaković, L., Lukić, M., Božunović, J., Aničić, N., Filipović, B., Mišić, D. (2018): Organ-specific and genotype-dependent constitutive biosynthesis of secoiridoid glucosides in Centaurium erythraea Rafn, and its elicitation with methyl jasmonate. Phytochemistry, 155, pp.69-82.",
+            "Aničić, N., Matekalo, D., Skorić, M., Pećinar, I., Brkušanin, M., Nestorović Živković, J., Dmitrović, S., Dajić Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347-358."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“ (South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0”, “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X‐02), ",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Jasmina Nestorović Živković",
+        "title": "viši naučni saradnik",
+        "participant": "P6",
+        "birth": "24. mart 1981., Beograd, Srbija",
+        "contact": "jasmina.nestorovic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-5670-4558",
+          "researchgate": "https://www.researchgate.net/profile/Jasmina-Nestorovic-Zivkovic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=55190883100",
+            "https://www.scopus.com/authid/detail.uri?authorId=35795890900"
+          ]
+        },
+        "bio": "Dr Jasmina Nestorović Živković je viši naučni saradnik na Institutu za biološka istraživanja “Siniša Stanković”, Instituta od nacionalnog značaja za Republiku Srbiju, Univerziteta u Beogradu. Biološki fakultet Univerziteta u Beogradu, koji je upisala školske 2000/2001. godine, na studijskoj grupi Biologija, završila je 2006. godine. Doktorske studije na Biološkom fakultetu u okviru studijskog programa „Eksperimentalna i primenjena botanika“ upisala je školske 2006/2007. godine. Doktorsku disertaciju odbranila je 2013. godine na Biološkom fakultetu, Univerziteta u Beogradu i time stekla zvanje doktora bioloških nauka. Od 2007. godine dr Jasmina Nestorović Živković zaposlena je kao istraživač pripravnik u Institutu za biološka istraživanja „Siniša Stanković“. U zvanje istraživač saradnik dr Jasmina Nestorović Živković izabrana je 2010. godine, u zvanje naučni saradnik 2014. godine, dok je u zvanje viši naučni saradnik izabrana 2021. godine. Objavila je značajan broj publikacija u časopisima sa SCI liste (19), a kvalitet njegovog istraživanja je merljiv i kroz broj citata (232, bez autocitata). Prema Scopus podacima h-index dr Jasmine Nestorović Živković iznosi 8. Dr Jasmina Nestorović Živković je od početka karijere učestvovala u realizaciji četiri nacionalna i pet međunarodnih projekta. Bila je član Organizacionog odbora međunarodne konferencije pod nazivom “3rd International Conference on Plant Biology (22nd SPPS Meeting)“. Takođe je bila aktivno uključena kao član organizacionog tima u projekte promocije nauke kao što su Evropska Noć Istraživača (2018.-2019. i 2020. godine), dok je pre 2018. godine dr Jasmina Nestorović Živković učestvovala u manifestaciji Evropska Noć Israživača kao demonstrator. Dr Jasmina Nestorović Živković je učesnik prvog i drugog Festivala Nauke u Srbiji, takođe je bila i predstavnik Instituta na 63. Međunarodnom sajmu tehnike i tehničkih dostignuća (2019.). Dr Nestorović Živković je član Društva za fiziologiju biljaka Srbije i Evropskog društva za biljnu biologiju (Federation of European Societies for Plant Biology, FESPB).",
+        "publications": {
+          "name": "Nestorović Živković, J.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020): Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Nestorović, J., Mišić, D., Šiler, B., Soković, M., Glamočlija, J., Ćirić A., Maksimović V., Grubišić D. (2010): Nepetalactone content in shoot cultures of three endemic Nepeta species and the evaluation of their antimicrobial activity. Fitoterapia, 81 (6): 621-626.",
+            "Aničić, N, Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Nestorović Živković, J., Dmitrović, S., Jovanović, V., Živković, S., Božić, D., Aničić, N., Mišić, D. (2016): Allelopathic potential of essential oil of Nepeta rtanjansis. Allelopathy Journal: 36 (2): 207-220.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. (2015): Simultaneous UHPLC/DAD/(+/_)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical Analysis, 26, 72–85."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“ (South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0”, “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X‐02), ",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Tijana Banjanac",
+        "title": "naučni saradnik",
+        "participant": "P7",
+        "birth": "9. avgust 1978., Beograd, Srbija",
+        "contact": "tbanjanac@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-9023-9135",
+          "researchgate": "https://www.researchgate.net/profile/Tijana-Banjanac",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=29367580800"
+          ]
+        },
+        "bio": "Dr Tijana Banjanac, naučni saradnik u Odeljenju za fiziologiju biljaka, zaposlena je na IBISS od 2007. godine (istraživač pripravnik, 2007-2010; istraživač saradnik, 2008-2016; naučni saradnik, 2016-). Nakon diplomiranja na Biološkom fakultetu Univerziteta u Beogradu (FB-UB) upisala je doktorske studije koje je završila 2016. godine na istom fakultetu (FB-UB). Naučno-istraživački rad dr Tijane Banjanac pripada oblasti fiziologije, molekularne biologije, biotehnologije, populacione i evolucione genetike biljaka i obuhvata pre svega proučavanje raznovrsnosti populacija i pojave međuvrsne hibridizacije u okviru roda Centaurium analizom procesa rastenja i sekundarnog metabolizma, kao i upotrebom molekularnih markera. Bila je angažovana kao mentor u izradi dve magistarske teze, a trenutno je mentor jednog doktorata. Kao naučni saradnik, dr Banjanac je uključena u Centar izuzetnih vrednosti za interdisciplinarna istraživanja u biologiji pri IBISS-u (2020-2024). Od 2019. godine rukovodilac je Laboratorije za kulturu tkiva sa pripremnom laboratorijom i sterilnim blokom pri odeljenju za fiziologiju biljaka IBISS-a. Od 2020. godine dr Banjanac je rukovodilac Zbirke semena pri istoj ustanovi.  Objavila je 18 radova u časopisima koji se nalaze na SCI listi, autor je ili koautor mnogih drugih publikacija (saopštenja sa međunarodnih i nacionalnih skupova); kvalitet njenog istraživačkog rada merljiv je brojem citata (262) i Hirsch-ovim indeksom od 10, prema SCOPUS bazi citata. Tokom svoje karijere, dr Banjanac je bila učesnik dva domaća i jednog međunarodnog projekta. Član je Evropske federacije udruženja za biljnu biologiju (FESPB), Srpskog društva za fiziologiju biljaka (SPPS) i Društva genetičara Srbije (DGS).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Nagrada za najbolju studentsku poster prezentaciju (2013. godine) na konferenciji “1st International Conference on Plant Biology (20th SPPS Meeting)“, dodeljena od  DFBS."
+          },
+          {
+            "name": "",
+            "text": "Nagrada za najbolju studentsku poster prezentaciju (2015. godine) na konferenciji: „2nd International Conference on Plant Biology, 21th Symposium of the Serbian Plant Physiology Society”, dodeljena od  DFBS."
+          }
+        ],
+        "publications": {
+          "name": "Banjanac, T.",
+          "project": [
+            "Hadi, N., Shojaeiyan, A., Sefidkon, F., Jafari, A.-A., Mišić, D., Banjanac, T., Šiler, B. (2020): Assessment of genetic diversity of Nepeta kotschyi Boiss., a native Iranian medicinal plant. Journal of Agricultural Science and Technology 22 (5): 1327-1342.",
+            "Banjanac, T., Đurović, S., Jelić, M., Dragićević, M., Mišić, D., Skorić, M., Nestorović Živković, J., Šiler, B. (2019): Phenotypic and genetic variation of an interspecific Centaurium hybrid and its parental species. Plants, 8(7): 224.",
+            "Banjanac, T., Dragićević, M., Šiler, B., Gašić, B., Bohanec, B., Nestorović Živković, J., Trifunović, S., Mišić, D. (2017): Chemodiversity of two closely related tetraploid Centaurium species and their hexaploid hybrid: Metabolomic search for high-resolution taxonomic classifiers. Phytochemistry, 140: 27-44.",
+            "Banjanac, T., Skorić, M., Belamarić, M., Nestorović Živković, J., Mišić, D., Jelić, M., Dmitrović, S., Šiler, B. (2018): Pursuit for EST microsatellites in a tetraploid model from de novo transcriptome sequencing. Genetika, 50(2): 687-703.",
+            "Banjanac, T., Šiler, B., Skorić, M., Ghalawenji, N., Milutinović, M., Božić, D., Mišić, D. (2014): Interspecific in vitro hybridization in genus Centaurium and identification of hybrids via flow cytometry, RAPD, and secondary metabolite profiles. Turkish Journal of Botany, 38: 68-79."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Biljana Filipović",
+        "title": "naučni saradnik",
+        "participant": "P8",
+        "birth": "12. jun 1975., Leskovac, Srbija",
+        "contact": "biljana.nikolic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "http://orcid.org/0000-0001-6639-5760",
+          "researchgate": "",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57212651250"
+          ]
+        },
+        "bio": "Dr Biljana Filipović (rođ. Nikolić), naučni saradnik u Odeljenju za fiziologiju biljaka Instituta za biološka istraživanja “Siniša Stanković”, zaposlena je na Institutu od 1. februara 2005. godine (istraživač pripravnik, 2005-2009; istraživač saradnik, 2009-2016; naučni saradnik, 2016-). Osnovne akademske studije na  Biološkom fakultetu Univerziteta u Beogradu (FB-UB), na studijskoj grupi Biologija, završila je 2004. godine sa prosečnom ocenom 9,25 i ocenom 10 na diplomskom ispitu. Doktorske akademske studije završila je na istom fakultetu (FB-UB) 2015. godine sa prosečnom ocenom 10. Bibliografija dr Biljane Filipović obuhvata 21 naučno-istraživačku publikaciju sa  SCI liste i druge publikacije (saopštenja itd.). Naučni radovi dr Biljane Filipović do sada su na osnovu pregleda citiranosti u bazi podataka Web of Science citirani ukupno 126 puta, dok h-index dr Biljane Filipović iznosi 8 prema Scopus bazi podataka. Dr Biljana Filipović je od početka karijere učestvovala u realizaciji četiri nacionalna projekta (tri projekta osnovnih istraživanja i jednog projekta tehnološkog razvoja finansiranih od strane resornog Ministarstva prosvete, nauke i tehnološkog razvoja Republike Srbije), kao i tri međunarodna projekta. Kao učesnik projekta ReFocus 2.0, sponzorisanog od strane Evropske komisije (H2O2O-MSCA-NIGHT-2018-ReFocuS 2.0-818325), aktivno je doprinosila edukaciji mladih, čime im je na popularan i zanimljiv način predstavljala prednosti bavljenja naukom u Srbiji. Tokom 2018. i 2019. godine dr Biljana Filipović je u okviru manifestacije “Noć istraživača” bila zadužena za organizaciju manifestacije, koja je privukla veliki broj posetilaca svih uzrasta. Osim učešća u organizaciji ove manifestacije, dr Biljana Filipović je neposredno učestvovala u postavci ispred Odeljenja za fiziologiju biljaka 2018. godine. Dr Biljana Filipović je član Društva za fiziologiju biljaka Srbije (DFBS) i Evropskog društva za biljnu biologiju (The Federation of European Societies of Plant Biology - FESPB).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Dr Biljana Filipović je dobitnik nagrade Fondacije „Goran Ljubijankić“ za najbolju doktorsku disertaciju iz oblasti molekularne biologije odbranjenu u 2015. godini."
+          }
+        ],
+        "publications": {
+          "name": "Filipović, B.",
+          "project": [
+            "Ćuković, K., Dragićević, M., Bogdanović, M., Paunović, D., Giurato, G., Filipović, B., Subotić, A., Todorović, S., Simonović, A. (2020). Plant regeneration in leaf culture of Centaurium erythraea Rafn. Part 3: de novo transcriptome assembly and validation of housekeeping genes for studies of in vitro morphogenesis. Plant Cell Tissue and Organ Culture 141:417-433.",
+            "Božunović, J., Skorić, M., Matekalo, D., Živković, S., Dragićević, M., Aničić, N., Filipović, B., Banjanac, T., Šiler, B. and Mišić, D. (2019). Secoiridoids Metabolism Response to Wounding in Common Centaury (Centaurium erythraea Rafn) Leaves. Plants, 8(12), p.589.",
+            "Filipović, B., Šiler, B., Nestorović Živković, J., Banjanac, T., Skorić, M., Božunović, J., Mišić, D. (2019). Diploid vs. tetraploid Centaurium erythraea Rafn: a comparative study of regenerative in vitro potential and biosynthetic capacity. Lekovite sirovine 39:52-59.",
+            "Matekalo, D., Skorić, M., Nikolić, T., Novaković, L., Lukić, M., Božunović, J., Aničić, N., Filipović, B., Mišić, D. (2018). Organ-specific and genotype-dependent constitutive biosynthesis of secoiridoid glucosides in Centaurium erythraea Rafn, and its elicitation with methyl jasmonate. Phytochemistry, 155, pp.69-82.",
+            "Kračun-Kolarević, M., Dmitrović, S., Filipović, B., Perić, M., Mišić, D., Simonović, A., Todorović, S. (2015). Influence of sodium salicylate on rosmarinic acid, carnosol and carnosic acid accumulation by Salvia officinalis L. shoots grown in vitro. Biotechnology Letters 37: 1693-1701."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2018–2020",
+            "name": "ReFocus EU HORIZON 2020 MSCA-NIGHT-2018: „The Road to Friday of Science – ReFocus 2.0 - 818325“),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Milica Milutinović",
+        "title": "naučni saradnik",
+        "participant": "P9, rukovodilac radnog paketa WP6",
+        "birth": "12. dec 1987, Beograd, Srbija",
+        "contact": "milica.milutinovic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0003-0619-0709",
+          "researchgate": "https://www.researchgate.net/profile/Milica_Milutinovic2",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57192975504"
+          ]
+        },
+        "bio": "Dr Milica Milutinović, naučni saradnik u Odeljenju za Fiziologiju biljaka, zaposlena je na IBISS od 2012. godine (istraživač pripravnik, 2012-2013; istraživač saradnik, 2013-2020; naučni saradnik, 2020-). Nakon završenih redovnih osnovnih studija na Biološkom fakultetu Univerziteta u Beogradu, Milica je 2012. godine završila master studije, a potom 2019. godine i doktorke studije na istom fakultetu. U periodu od 2012. do 2017. godine, dr Milica Milutinović je boravila na The Ohio State University (Kolumbus, Ohajo, SAD) gde je radila eksperimentalni deo doktorske teze i bila uključena u rad Arabidopsis Biological Resource Center. Dr Milutinović je tokom istraživačke karijere uspostavila uspešnu saradnju sa istraživačima iz Srbije i inostranstva (SAD, Nemačka). Milica je autor ili koautor jedanaest radova u međunarodnim časopisima, kao desetak saopštenja sa skupova nacionalnog ili međunarodnog značaja štampanih u izvodu. Na osnovu raspoloživih podataka Scopus baze, naučni radovi dr Milutinović imaju 148 citacija i h-indeks citiranosti 5. Od zasnivanja radnog odnosa na IBISS, dr Milutinović je bila angažovana na jednom nacionalnom i tri međunarodna projekta. Milica je član Društva za fiziologiju biljaka Srbije (DFBS) kao i međunarodnog udruženja The Federation of European Societies of Plant Biology (FESPB). Aktivno je učestvovala u popularizaciji nauke kroz organizaciju postavki u okviru Noći Istraživača (Seventh framework programme for research and technological development - People-2013-Night; „The Road to Friday of Science - ReFocuS” i „The Road to Friday of Science – ReFocuS 2.0”), na „Drugarijadi” koju organizuje Fondacija Novak Đoković i na međunarodnoj manifestaciji „Dan Fascinacije biljkama”, pod okriljem Evropske organizacije za biljne nauke. Zajedno sa grupom istraživača sa IBISS, bila je uključena u rad laboratorije Instituta za virusologiju, vakcine i serume 'Torlak' na testiranju covid19.",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Dobitnik nagrade za najbolju poster prezentaciju (2018. godine) na simpozijumu od međunarodnog značaja “3rd International Conference on Plant Biology (22nd SPPS Meeting)“, koje je održano pod potkroviteljstvom DFBS."
+          }
+        ],
+        "publications": {
+          "name": "Milutinović, M.",
+          "project": [
+            "Živković, S., Milutinović, M., Maksimović, V., Ćirić, A., Ivanov, M., Božunović, J., Banjanac, T. and Mišić, D., 2020. Antioxidant and antimicrobial activity of two Asplenium species. South African Journal of Botany, 132, pp.180-187.",
+            "Milutinovic, M., Lindsey III, B.E., Wijeratne, A., Hernandez, J.M., Grotewold, N., Fernández, V., Grotewold, E., Brkljacic, J. (2019) Arabidopsis EMSY-like (EML) histone readers are necessary for post-fertilization seed development, but prevent fertilization-independent seed formation. Plant Science, 285: 99-109.",
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Mišić, D. (2019) Nepetalactone-rich essential oil mitigates phosphinothricin-induced ammonium toxicity in Arabidopsis thaliana (L.) Heynh. Journal of plant physiology, 237: 87-94.",
+            "Coursey, T., Milutinović, M., Regedanz, E., Brkljačić, J., Bisaro, D.M., (2018) Arabidopsis Histone Reader EMSY-LIKE 1 Binds H3K36 and Suppresses Geminivirus Infection. Journal of virology, pp.JVI-00219.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. (2015); Simultaneous UHPLC/DAD/(+/_)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical Analysis 2015, 26, 72–85."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2012-2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“, service contract financed by the South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0” - “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X-02,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality“, COST action No. OC-2018-2-23239,",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2020-2024:",
+            "name": "„Plasma applications for smart and sustainable agriculture“, Cost Action CA19110,",
+            "role": "MC zamenik."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Jelena Božunović",
+        "title": "naučni saradnik",
+        "participant": "P10",
+        "birth": "22. dec 1986., Beograd, Srbija",
+        "contact": "jelena.boljevic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": " https://orcid.org/0000-0001-8755-4361",
+          "researchgate": "https://www.researchgate.net/profile/Jelena-Boljevic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57197875948"
+          ]
+        },
+        "bio": "Dr Jelena Božunović, naučni saradnik, angažovana je u okviru Odeljenja za fiziologiju biljaka IBISS-a od 2013. godine (istraživač pripravnik 2013-2014; istraživač saradnik 2014-2021; naučni saradnik od 2021 do danas). Nakon diplomiranja na Biološkom fakultetu Univerziteta u Beogradu na istom fakultetu je stekla diplomu mastera (2013.godine) i doktora nauka (2020. godine). Koautor je 9 radova u časopisima sa SCI liste i drugih publikacija, a kvalitet njenih publikacija je prikazan kroz broj citacija (76) i Hiršov indeks 3 na osnovu SCOPUS baze podataka. U toku svoje karijere, dr Božunović je učestvovala na 2 projekta: jednom nacionalnom i jednom međunarodnom projektu. Bila je član Organizacionog odbora konferencije „3rd International Conference on Plant Biology (22nd SPPS Meeting)“ 2018. godine. Član je Evropske federacije za biljni biologiju (FESPB) i Društva za fiziologiju biljaka Srbije (DFBS). Bila je član komisije za odbranu jedne master teze, a trenutno je mentor jednog master rada i učestvuje u eksperimentalnoj izradi jedne doktorske teze. Jelena je bila lokalni organizator i učesnik brojnih aktivnosti u različitim projektima promocije nauke, kao što su Evropska noć istraživača („Marija Sklodovska Kiri akcije“), Dan fascinacije biljkama biljkama (European Plant Science Organization - EPSO) i Drugarijada (fondacija Novaka Đokovića). Dr Božunović je uključena u rad Centra izuzetnih vrednosti za interdisciplinarna istraživanja u biologiji IBISS-a (2020-2024).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Dobitnik FESPB granta 2018. godine – stipendije za učestvovanje studenata i mladih istraživača na konferenciji “Plant Biology Europe 2018”, održanoj u Kopenhagenu, Danska."
+          }
+        ],
+        "publications": {
+          "name": "Božunović, J.",
+          "project": [
+            "Božunović, J., Skorić, M., Matekalo, D., Živković, S., Dragićević, M., Aničić, N., Filipović, B., Banjanac, T., Šiler, B. and Mišić, D., 2019. Secoiridoids Metabolism Response to Wounding in Common Centaury (Centaurium erythraea Rafn) Leaves. Plants, 8(12), p.589.",
+            "Matekalo, D., Skorić, M., Nikolić, T., Novaković, L., Lukić, M., Božunović, J., Aničić, N., Filipović, B., Mišić, D. (2018): Organ-specific and genotype-dependent constitutive biosynthesis of secoiridoid glucosides in Centaurium erythraea Rafn, and its elicitation with methyl jasmonate. Phytochemistry, 155, pp.69-82.",
+            "Božunović, J., Živković, S., Gašić, U., Glamočlija, J., Ćirić, A., Matekalo, D., Šiler, B., Soković, M., Tešić, Ž. and Mišić, D., 2018. In vitro and in vivo transformations of Centaurium erythraea secoiridoid glucosides alternate their antioxidant and antimicrobial capacity. Industrial crops and products, 111, pp.705-721.",
+            "Dmitrović, S., Škorić, M., Boljević, J., Aničić, N., Božić, D., Mišić, D., Filipović, V. and Opsenica, D., 2016. Elicitation effects of a synthetic 1, 2, 4, 5-tetraoxane and a 2, 5-diphenylthiophene in shoot cultures of two Nepeta species. Journal of the Serbian Chemical Society, 81(9), pp.999-1012.",
+            "Dmitrović, S., Perišić, M., Stojić, A., Živković, S., Boljević, J., Nestorović Živković J., Aničić, N., Ristić, M.,  Mišić, D. (2015): Essential oils of two Nepeta species inhibit growth and induce oxidative stress in ragweed  (Ambrosia artemisiifolia L.) shoots in vitro. Acta Physiologiae Plantarum 37 (3): 1-15."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2013–2019:",
+            "name": "“Fiziološka, hemijska i molekularna analiza diverziteta retkih i ugroženih biljnih vrsta u cilju ex situ zaštite i produkcije biološki aktivnih jedinjenja” (br. 173024). ",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality“, COST action No. OC-2018-2-23239,",
+            "role": "Učesnik."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Neda Aničić",
+        "title": "naučni saradnik",
+        "participant": "P11",
+        "birth": "11. jul 1989., Beograd, Srbija",
+        "contact": "neda.anicic@ibiss.bg.ac.rs",
+        "role": "Akreditovana naučno-istraživačka organizacija (NIO): Institut za biološka istraživanja “Siniša Stanković” – Institut od nacionalnog značaja za Republiku Srbiju, Univerzitet u Beogradu (IBISS), Bulevar despota Stefana 142, 11060 Beograd, Srbija.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0003-4184-1263",
+          "researchgate": "https://www.researchgate.net/profile/Neda-Anicic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=56536850700"
+          ]
+        },
+        "bio": "Dr Neda Aničić, naučni saradnik, zaposlena je na Odeljenju za fiziologiju biljaka, na IBISS-u od 2013. godine (istraživač pripravnik, 2013-2015.; istraživač saradnik, 2015-2020.; naučni saradnik, 2021-danas). Diplomirala je 2012. godine na Biološkom fakultetu, Univerziteta u Beogradu (BF-UB). Master studije je završila 2013.  i doktorirala 2020. godine na istom fakultetu (BF-UB). Neda je boravila na usavršavanju u inostranstvu na Institutu za sistematsku botaniku i ekologiju, Univerziteta u Ulmu u Nemačkoj (2014. godine), kao i u laboratoriji za farmakognoziju Farmaceutskog fakulteta Aristotelovog Univerziteta u Solunu, u Grčkoj (2015. godine). Dr Aničić je ostvarila saradnju sa istraživačima iz Srbije i iz inostranstva (Grčka, Nemačka, Iran). Objavila je 11 radova u časopisima sa SCI liste, a kvalitet njenog istraživanja je merljiv na osnovu brojnih citacija (69) i H-indeksa (4), prema citatnoj bazi Scopus. Tokom karijere učestvovala je na jednom nacionalnom i dva međunarodna projekta. Bila je član Organizacionog odbora naučne konferencije „3rd International Conference on Plant Biology (22nd SPPS Meeting)” 2018. godine. Dr Aničić je bila učesnik brojnih projekata sa temom promocije nauke, kao što su Evropska Noć istraživača (Researchers’ Night, Marie Skłodowska-Curie actions), Dan fascinacije biljkama (European Plant Science Organization - EPSO) i Drugarijada (Novak Đoković Fondacija). Trenutno je komentor jednog master rada i učestvuje u eksperimentalnoj izradi jedne doktorske teze. Dr Aničić je saradnik Centra izuzetnih vrednosti za interdisciplinarna istraživanja u biologiji IBISS-a (2020-2024). Član je Društva za fiziologiju biljaka Srbije (DFBS) i Evropskog društva za biljnu biologiju (FESPB).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Nagrada za najbolju studentsku poster prezentaciju (2015. godine) na konferenciji DFBS: „2nd International Conference on Plant Biology, 21th Symposium of the Serbian Plant Physiology Society”"
+          },
+          {
+            "name": "",
+            "text": "STSM Grant (2015. godine) – finansirana od strane Cost Action CA1106 (Acronym QualityFruit), mentor prof. Angelos Kanelis, laboratorija za farmakognoziju Farmaceutskog fakulteta Aristotelovog Univerziteta u Solunu, Grčka (Tema: Geni koji učestvuju u biosintezi fenilpropanoida u plodovima vrste Cistus creticus: identifikacija i analiza ekspresije)"
+          },
+          {
+            "name": "",
+            "text": "Nagrada Fondacije “Goran Ljubijankić” za najbolju doktorsku desertaciju iz oblasti molekularne biologije u 2020. godini"
+          }
+        ],
+        "publications": {
+          "name": "Aničić, N.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020): Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Aničić, N., Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Aničić, N., Gašić, U., Lu, F., Ćirić, A., Ivanov, M., Jevtić, B., Dimitrijević, M., Anđelković, B., Skorić, M., Nestorović Živković, J., Mao, Y. (2021): Antimicrobial and immunomodulating activities of two endemic Nepeta species and their major iridoids isolated from natural sources. Pharmaceuticals, 14(5), p.414.",
+            "Hadi, N., Sefidkon, F., Shojaeiyan, A., Šiler, B., Jafari, A.-A., Aničić, N., Mišić, D. (2017): Phenolics’ composition in four endemic Nepeta species from Iran cultivated under experimental field conditions: The possibility of the exploitation of Nepeta germplasm. Industrial Crops and Products, 95: 475-484.",
+            "Dmitrović, S., Perišić, M., Stojić, A., Živković, S., Boljević, J., Nestorović Živković J., Aničić, N., Ristić, M., Mišić, D. (2015): Essential oils of two Nepeta species inhibit growth and induce oxidative stress in ragweed  (Ambrosia artemisiifolia L.) shoots in vitro. Acta Physiologiae Plantarum 37 (3): 1-15."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2013–2019:",
+            "name": "“Fiziološka, hemijska i molekularna analiza diverziteta retkih i ugroženih biljnih vrsta u cilju ex situ zaštite i produkcije biološki aktivnih jedinjenja” (br. 173024). ",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2015–2016:",
+            "name": "„An Integrated System Approach to Determine the Developmental Mechanisms Controlling Fleshy Fruit Quality in Tomato and Grapevine“, Cost Action CA1106 (akronim QualityFruit),",
+            "role": "Učesnik."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality“, COST action No. OC-2018-2-23239,",
+            "role": "Učesnik."
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "name": "Name and family name:",
+    "title": "Research title:",
+    "participant": "Participant:",
+    "birth": "Date and place of birth:",
+    "contact": "Contact e-mail:",
+    "link": "Link to the Public databases of researchers:",
+    "prizes": "Awards, prizes, fellowships:",
+    "publications": "List of five publications relevant to the Project:",
+    "projects": "List of relevant previous projects or activities, connected to the subject of this proposal:",
+    "teamMembers": [
+      {
+        "id": 0,
+        "name": "Danijela Mišić",
+        "title": "Principal Research Fellow",
+        "participant": "Principal Investigator (PI)",
+        "birth": "6th August 1975, Zaječar, Serbia",
+        "contact": "dmisic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0002-5419-0773",
+          "researchgate": "https://www.researchgate.net/profile/Danijela_Misic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=8687890200"
+          ]
+        },
+        "bio": "Dr. Danijela Mišić is the Principal Research Fellow at the Dpt. of Plant Physiology of the IBISS, and she has been employed at the Institute since 2001 (research trainee, 2001-2004; research assistant, 2004-2010; research associate, 2010-2013; senior research associate, 2013-2018; principal research fellow, 2018-to date). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she earned the MSc (2003) and Ph.D. (2009) degrees by the same faculty (FB-UB), and she was a postdoctorate fellow at the Wageningen University, The Netherlands (2011-for six months). Shortly after receiving the Ph.D. degree, she became a PI of the multidisciplinary research group, working in the area of plant sciences and covering fields of plant physiology, plant specialized metabolism, plant stress physiology, plant molecular biology, functional genomics, metabolic engineering, biodiversity and conservation, plant-biotic interactions, and plant genetics. The group currently numbers 14 permanent members and is primarily devoted to investigating biology, chemistry, ecology, and biotechnology of iridoids- and phenolics-rich plant species. The multidisciplinary scientific approach of dr Mišić's studies resulted in a significant number of publications in SCI journals (70), book chapters (2), and others (conference lectures, proceedings, etc). The quality of her research could be measurable through the number of citations (963) and Hirsch index of 18, according to the SCOPUS citation database. She was engaged in eight national and five international projects during her career. She has a successful collaboration with respectable researchers from Serbia and worldwide (e.g., Greece, USA, China, Iran, Bulgaria, France, The Netherlands, Taiwan, Bosnia and Herzegovina). As the President of the Serbian Plant Physiology Society (SPPS) (2017-to date), Dr. Danijela Mišić is devoted to networking and integrating Serbian researchers in plant sciences, biotechnology, and agriculture. For the past decade, Dr. Mišić has participated as a member of the Scientific and Organizing Committees of the respectable international conferences on plant biology organized by SPPS, and of many others. She is also a member of the International Association for Plant Biotechnology (IAPB), The Federation of European Societies of Plant Biology (FESPB), and the Serbian Biological Society. She is engaged as a scientific associate in the Center of Excellence for Interdisciplinary Research in Biology at the IBISS (2020-2024) and a member of the IBISS scientific council (2013-to date). Dr. Mišić has served as a reviewer for 20 SCI Journals and as a reviewer of 2 bilateral projects for the Ministry of Education, Science and Technological Development of the Republic of Serbia. She is currently the Short Term Scientific Missions (STSMs) coordinator for the CostAction CA18210 (2019-2023). She was engaged as a mentor of 3 Ph.D. and 1 MSc theses and experimentally contributed to a total of 11 PhDs and 5 MSc theses.",
+        "prizes": [
+          {
+            "name": "“Norman Borlaug Fellowship”",
+            "text": "(2005), sponsored by and U.S. Department of State (USDA) (visiting scientist at the Iowa State University, Ames, Iowa, USA, supervisor prof. Diane Bassham)."
+          },
+          {
+            "name": "Award for the best young researchers",
+            "text": "(2006), awarded by the Serbian Plant Physiology Society."
+          },
+          {
+            "name": "Fellowship for the postdoctoral research",
+            "text": "(2011), sponsored by the Ministry of Education and Science of the Republic of Serbia, at the Dept. of Plant Physiology, Wageningen University, The Netherlands, supervisor prof. Harro Bouwmeester (Research topic: Isolation and functional characterization of genes involved in the biosynthesis of sesquiterpene lactones in Inula britannica)."
+          },
+          {
+            "name": "PIFI (President's International Fellowship Initiative)",
+            "text": "(2019), Fellowship from the Chinese Academy of Sciences (CAS), Department of natural products chemistry, Shanghai Institute of Materia Medica (SIMM), laboratory of prof. Yang Ye (Research topic: Semipreparative and preparative isolation of iridoids from Nepeta and Centaurium species)."
+          }
+        ],
+        "publications": {
+          "name": "Mišić, D.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020). Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Mišić, D. (2019). Nepetalactone-rich essential oil mitigates phosphinothricin-induced ammonium toxicity in Arabidopsis thaliana (L.) Heynh. Journal of Plant Physiology 237:87-94.",
+            "Aničić, N, Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Sparks, J.T., Bohbot, J.T., Ristić, M., Mišić, D., Skorić, M., Mattoo, A., Dickens, J.D. (2018): Chemosensory responses to the repellent nepeta oil and its major component nepetalactone by the yellow fever mosquito, Aedes aegypti, a vector of Zika virus. Journal of Medicinal Enthomology 54 (4): 957-963.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. (2015); Simultaneous UHPLC/DAD/(+/_)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical Analysis 2015, 26, 72–85."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2005-2006:",
+            "name": "“Micropropagation, reintroduction and cultivation of endangered, endemic and potentially medicinal plant Nepeta rtanjensis“, sponsored by Ministry of Science and Environmental Protection of Republic of Serbia,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009-2013:",
+            "name": "“TERPMED-Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project (No. 227448),",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Principal Investigator."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "MC Member, STSM coordinator."
+          },
+          {
+            "year": "2020-2021:",
+            "name": "“Mollusc bio-repellents featuring mosses”, Proof of Concept (PoC) project sponsored by the Innovation Fund of the Republic of Serbia (No. 5714),",
+            "role": "External Expert."
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Uroš Gašić",
+        "title": "Senior Research Associate",
+        "participant": "Participant P1, WP1 leader",
+        "birth": "24th November 1986, Šabac, Serbia",
+        "contact": "uros.gasic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organisation (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-5384-8396",
+          "researchgate": "https://www.researchgate.net/profile/Uros_Gasic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=55540851800"
+          ]
+        },
+        "bio": "Dr. Uroš Gašić, Senior Research Associate at the Dpt. of Plant Physiology of the IBISS, has been employed at the Institute since 2019 (senior research associate, 2018-to date). After he graduated from the Faculty of Chemistry, University of Belgrade (FC-UB), he got the MSc (2012) and Ph.D. (2017) degrees at the same faculty (FC-UB). He was a Visiting Scholar at the University of Malta through the ERASMUS + KA107 project (2018- one-week study stay) and a postdoc at the National Institute of Chemistry in Ljubljana Slovenia (2019-for three months). His main research areas are plant natural products chemistry, including specialized plant metabolites and food chemistry. Shortly after he got the Ph.D. degree, he became a member of Dr. Danijela Mišić’s research group working in plant sciences and covering fields of plant physiology, specialized plant metabolism, and metabolic engineering. The multidisciplinary scientific approach and collaborations with researchers from Serbia and from abroad (Norway, Malta, Slovenia, Croatia, Turkey), resulted in the significant number of publications in SCI journals (87), book chapters (2) and others (conference lectures, proceedings, etc.), and the quality of his research is measurable through the number of citations (1349) and Hirsch index of 20 according to the SCOPUS citation database. During his career, he was engaged in three national and two international projects. Dr. Gašić has participated as a member of the Organizing committees of the respectable national and international conferences such as „51st Meeting of the Serbian Chemical Society and 2nd Conference of Young Chemist of Serbia” in 2014, Higher Mass Spectrometry Course - “Identification of Components Using High Result Screening Using Different Software” in 2014 and “UNIFood” in 2018. He is a member of the Serbian Chemical Society, The Federation of European Societies of Plant Biology (FESPB), and the Serbian Plant Physiology Society (SPPS). He has served as a reviewer of 16 SCI Journals (60 reviews). He is engaged as a mentor of 2 PhDs. Dr. Gašić is a member of the Reviewing Committees of two journals (Biomolecules and Metabolites). As a scientific associate, he is engaged in the Center of Excellence for Interdisciplinary Research in Biology at the IBISS (2020-2024).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Medal for the scientific zeal and success from the Serbian Chemical Society as an expression of recognition for the results of research in food chemistry with an emphasis on the analysis of secondary plant metabolites (2019)."
+          }
+        ],
+        "publications": {
+          "name": "Gašić, U.",
+          "project": [
+            "Cvetanović, A., Švarc-Gajić, J., Zeković, Z., Gašić, U., Tešić, Ž., Zengin, G., Mašković, P., Mahomoodally, F., Đurović, S. Subcritical water extraction as a cutting edge technology for the extraction of bioactive compounds from chamomile: Influence of pressure on chemical composition and bioactivity of extracts. Food Chemistry (2018), 266, 389-396.",
+            "Đurović, S., Vujanović, M., Radojković, M., Filipović, J., Filipović, V., Gašić, U., Tešić, Ž., Mašković, P., Zeković, Z. The Functional Food Production: Application of Stinging Nettle Leaves and its Extracts in the Baking of a Bread. Food Chemistry (2020), 312, 126091.",
+            "Zengin, G., Cvetanović, A., Gašić, U., Dragićević, M., Stupar, A., Uysal, A., Şenkardes, I., Sinan, K.I., Picot-Allain, M.C.N., Güneş, Ak, Mahomoodally, M.F. UHPLC-LTQ OrbiTrap MS analysis and biological properties of Origanum vulgare subsp. viridulum obtained by different extraction methods. Industrial Crops and Products (2020), 154, 112747.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. Simultaneous UHPLC/DAD/(+/–)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical analysis (2015), 26(1), 72-85.",
+            "Banjanac, T., Dragićević, M., Šiler, B., Gašić, U., Bohanec, B., Nestorović Živković, J., Trifunović, S., Mišić, D. Chemodiversity of two closely related tetraploid Centaurium species and their hexaploid hybrid: Metabolomic search for high-resolution taxonomic classifiers. Phytochemistry (2017), 140, 27-44."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2015-2016:",
+            "name": "Development of analytical methods for establishing authenticity of Serbian wines”, Innovation project; No. 451-03-2802-IP, Type 1/78,",
+            "role": "Participant."
+          },
+          {
+            "year": "2018-2022:",
+            "name": "”NIBIO project” – No. 10209 - „Agreement of Analysis between Faculty of Chemistry University of Belgrade and Norwegian Institute of Bioeconomy Research (NIBIO)“,",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2022:",
+            "name": "“Norwegian fruit genetic resources - Healthy, taste & no waste“ project (scientific cooperation between University of Belgrade (Faculty of Chemistry and Faculty of Agriculture) and The Norwegian Institute of Bioeconomy Research),",
+            "role": "Participant."
+          },
+          {
+            "year": "2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds” funded by the Ministry of Education, Science and Technological Development of Republic of Serbia (broj 173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Akronim RoxyCOST),",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Branislav Šiler",
+        "title": "Principal Research Fellow",
+        "participant": "P2, WP2 leader",
+        "birth": "11th February 1977, Zemun, Serbia",
+        "contact": "branislav.siler@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-5831-6612",
+          "researchgate": "https://www.researchgate.net/profile/Branislav_Siler",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=36476764800"
+          ]
+        },
+        "bio": "Dr. Branislav Šiler, Senior Research Associate at the Dpt. of Plant Physiology of the IBISS, has been employed at the Institute since 2005 (research trainee, 2005-2009; research assistant, 2009-2013; research associate, 2013-2016; senior research associate, 2016-to date). After he graduated from the Faculty of Biology, University of Belgrade (FB-UB), he earned Ph.D. (2012) degrees at the same faculty (FB-UB). Dr. Šiler has established successful collaborations with researchers from Serbia and abroad (Iran, Slovenia, Bulgaria). He has published a significant number of publications in SCI journals (32), book chapters (2), and others (conference lectures, proceedings, etc.), and the quality of his research is measurable through the number of citations (256, excluding self-citations) and Hirsch index of 12 according to the SCOPUS citation database. During his career, Dr. Šiler was engaged within totally seven national and six international projects. He has participated as a member of the Scientific and Organizing Committees of the respectable national and international conferences, such as “International Conference on Plant Biology & Symposium of the Serbian Plant Physiology Society“ in 2011, 2015, and 2018, “Programming for Evolutionary Biology” in 2016, and Conferences organized by the Serbian Biological Society. Dr. Šiler was actively involved as an Organizing team member or leader in science promotion projects such as European Researchers’ Night (2014-2015; 2016-2017; 2018-2019). Since 2019, he has represented the CITES coordination delegate on behalf of the IBISS. He is also engaged as a scientific associate in the Center of Excellence for Interdisciplinary Research in Biology at the IBISS (2020-2024) and a member of the IBISS scientific council (2017-to date). Dr. Šiler is a member of the Serbian Genetic Society, The Federation of European Societies of Plant Biology (FESPB), the Serbian Plant Physiology Society (SPPS), and the Serbian Biological Society. He served as a reviewer of 22 SCI Journals (63 reviews). He was engaged as a mentor of 2 PhDs. Dr. Šiler is a member of the Editorial Boards of two journals (PLOS ONE and Journal of Medicinal Botany).",
+        "publications": {
+          "name": "Šiler, B.",
+          "project": [
+            "Hadi, N., Shojaeiyan, A., Sefidkon, F., Jafari, A.-A., Mišić, D., Banjanac, T., Šiler, B. (2020): Assessment of genetic diversity of Nepeta kotschyi Boiss., a native Iranian medicinal plant. Journal of Agricultural Science and Technology 22 (5): 1327-1342.",
+            "Banjanac, T., Đurović, S., Jelić, M., Dragićević, M., Mišić, D., Skorić, M., Nestorović Živković, J., Šiler, B. (2019): Phenotypic and genetic variation of an interspecific Centaurium hybrid and its parental species. Plants, 8(7): 224.",
+            "Banjanac, T., Dragićević, M., Šiler, B., Gašić, B., Bohanec, B., Nestorović Živković, J., Trifunović, S., Mišić, D. (2017): Chemodiversity of two closely related tetraploid Centaurium species and their hexaploid hybrid: Metabolomic search for high-resolution taxonomic classifiers. Phytochemistry, 140: 27-44.",
+            "Hadi, N., Sefidkon, F., Shojaeiyan, A., Šiler, B., Jafari, A.-A., Aničić, N., Mišić, D. (2017): Phenolics’ composition in four endemic Nepeta species from Iran cultivated under experimental field conditions: The possibility of the exploitation of Nepeta germplasm. Industrial Crops and Products, 95: 475-484.",
+            "Jelić, M., Patenković, A., Skorić, M., Mišić, D., Kurbalija Novičić, Z., Bordács, S., Várhidi, F., Vasić, I., Benke, A., Frank, G., Šiler, B. (2015): Indigenous forests of European black poplar along the Danube River: Genetic structure and reliable detection of introgression. Tree Genetics and Genomes, 11: 89."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2005-2006:",
+            "name": "“Micropropagation, reintroduction and field cultivation of endangered, endemic and potentially medicinal plant species Nepeta rtanjensis“, sponsored by Ministry of Science and Environmental Protection of Republic of Serbia,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009-2013:",
+            "name": "“TERPMED- Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds“, funded by the European Commission (FP7-KBBE 227448),",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“, service contract financed by the South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0” - “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X-02,",
+            "role": "Project leader."
+          },
+          {
+            "year": "2019-2021:",
+            "name": "“Analyzes and studies of species and natural habitats subject to reporting under Art. 17 of the Habitats Directive and Art. 12 of the Birds Directive“ (BG16M1OP002-3.003-0001) at the Institute for Biological Research “Siniša Stanković“ - National Institute of Republic of Serbia, University of Belgrade,",
+            "role": "Coordinator of the project"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Slavica Dmitrović",
+        "title": "Senior Research Associate",
+        "participant": "P3",
+        "birth": "22nd August 1975, Sombor, Serbia",
+        "contact": "slavica.dmitrovic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković” - National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS) - Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0002-2621-1530",
+          "researchgate": "https://www.researchgate.net/profile/Slavica-Dmitrovic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=55461708100"
+          ]
+        },
+        "bio": "Dr. Slavica Dmitrović (born Milivojević), Senior Research Associate at the Dept. of Plant Physiology of the IBISS, has been employed at the Institute since 2003 (research trainee, 2003-2004; research assistant, 2004-2013; research associate, 2013-2019; senior research associate, 2019 - to date). For three years (trainee assistant, 2000-2003), she was employed at the Faculty of Biology, University of Belgrade. After she graduated from the Faculty of Biology, University of Belgrade (FB-UB) (2000), she earned the MSc (2003) and Ph.D. (2012) degrees from the same faculty (FB-UB). She has published a significant number of publications in SCI journals (18) and others (conference lectures, proceedings, etc.), and the quality of her research is measurable through the number of citations (120) and Hirsch index of 7 according to the Scopus citation database. During her career, she was engaged in three national and two international projects. She is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS). She was experimentally contributed to 4 PhDs. She is currently a co-mentor of 1 MSc and experimentally contributes to 1 Ph.D. Her main research areas are plant-biotic interactions, plant stress physiology, plant molecular biology and biotechnology, and the analysis and exploitation of bioherbicides. Dr. Dmitrović was involved in science promotion participating in the event 'Open Doors of IBISS' in cooperation with the Researchers' Night ReFocuS 2016-17 team (H2020-MSCA-NIGHT-2016-722341) and International Fair of Techniques and Technical Achievements, entitled 'Time for New Technologies' (2019).",
+        "publications": {
+          "name": "Dmitrović, S.",
+          "project": [
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Mišić, D. (2019). Nepetalactone-rich essential oil mitigates phosphinothricin-induced ammonium toxicity in Arabidopsis thaliana (L.) Heynh. Journal of Plant Physiology 237:87-94.",
+            "Dmitrović, S., Perišić, M., Stojić, A., Živković, S., Boljević, J., Nestorović Živković J., Aničić, N., Ristić, M., Mišić, D. (2015): Essential oils of two Nepeta species inhibit growth and induce oxidative stress in ragweed (Ambrosia artemisiifolia L.) shoots in vitro. Acta Physiologiae Plantarum 37 (3): 1-15.",
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020). Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Aničić, N, Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Perišić, M., Mišić, D. (2021): Antagonistic interaction between phosphinothricin and Nepeta rtanjensis essential oil affected ammonium metabolism and antioxidant defanse of Arabidopsis grown in vitro. Plants 10: 142."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2003-2005:",
+            "name": "“In vitro vegetativno i generativno razmnožavanje ugroženih biljnih vrsta, u cilju ex situ zaštite i produkcije sekundarnih metabolita” (br. 1530).",
+            "role": "Participant."
+          },
+          {
+            "year": "2006–2010:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Participant."
+          },
+          {
+            "year": "2011–2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2019–2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST).",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Marijana Skorić",
+        "title": "Research Associate",
+        "participant": "P4, WP3 leader",
+        "birth": "10th April 1974, Belgrade, Serbia",
+        "contact": "mdevic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0002-3727-4692",
+          "researchgate": "",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=54938511700"
+          ]
+        },
+        "bio": "Dr. Marijana Skorić (born Dević), Senior Research Associate at the Dept. of Plant Physiology of the IBISS, has been employed at the Institute since 2001 (research trainee, 2001-2005; research assistant, 2005-2015 (note: For two years she was employed in pharmaceutical company Velefarm, Belgrade); research associate, 2015-2020; senior research associate, 2020-). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB) (2000), she earned the MSc (2005) and Ph.D. (2014) degrees at the same faculty (FB-UB). She was a Visiting Scholar at the Pharmacognosy Laboratory of the Faculty of Pharmacy, Aristotle University of Thessaloniki, Greece (2005- two weeks study stay). Dr. Skorić has established successful collaborations with researchers from Serbia and abroad (Greece, USA). She has published a significant number of publications in SCI journals (22), book chapter (1), and others (conference lectures, proceedings, etc.), and the quality of her research is measurable through the number of citations (240) and Hirsch index of 9 according to the SCOPUS citation database. During her career, she was engaged within totally seven national and four international projects. Dr. Skorić has participated as the member and/or president of the Organizing Committee of International Conferences on Plant Biology organized by the Serbian Plant Physiology Society (SPPS) in 2015 and 2018. She is a member of The Federation of European Societies of Plant Biology (FESPB) and the SPPS. She was engaged as a mentor of 2 MSc theses and experimentally contributed to 3 Ph.D. and 1 MSc theses. Currently, she is a mentor of 1 Ph.D. Dr. Skorić was a member of the Grant Evaluation Committee of the FESPB Support Grants for 2020. As a key expert for real-time PCR analyses, she was delegated by the IBISS management to help in the fight against the COVID-19 pandemic caused by the SARS-CoV-2, and she was engaged at the Institute for Virology, Vaccines and Sera “Torlak“.",
+        "publications": {
+          "name": "Skorić, M.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020). Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Božunović, J., Skorić, M., Matekalo, D., Živković, S., Dragićević, M., Aničić, N., Filipović, B., Banjanac, T., Šiler, B. and Mišić, D., 2019. Secoiridoids Metabolism Response to Wounding in Common Centaury (Centaurium erythraea Rafn) Leaves. Plants, 8(12), p.589.",
+            "Aničić, N., Matekalo, D., Skorić, M., Pećinar, I., Brkušanin, M., Nestorović Živković, J., Dmitrović, S., Dajić Stevanović, Z., Schulz, H., Mišić, D. (2018) Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347-358.",
+            "Skorić, M., Gligorijević, N., Čavić, M., Todorović, S., Janković, R., Ristić, M., Mišić, D., Radulović, S. (2017) Cytotoxic activity of Nepeta rtanjensis Diklić & Milojević essential oil and its mode of action. Industrial Crops and Products 100 : 163-170.",
+            "Mišić, D., Šiler, B., Skorić, M., Djurickovic, M., Nestorović Živković, J., Jovanović, V., Giba, Z. (2013): Secoiridoid glycosides production by Centaurium maritimum L. Fritch hairy root cultures in temporary immersion bioreactor. Process Biochemistry 48: 1587-1591."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006–2010:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“ (South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0”, “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X‐02), ",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "MC Substitute."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Dragana Matekalo",
+        "title": "Senior Research Associate",
+        "participant": "P5, WP4 leader",
+        "birth": "10th October 1978, Belgrade, Serbia",
+        "contact": "dragana.bozic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-6565-4580",
+          "researchgate": "https://www.researchgate.net/profile/Dragana_Matekalo",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57192233904"
+          ]
+        },
+        "bio": "Dr. Dragana Matekalo (born Božić), Senior Research Associate at the Dept. of Plant Physiology of the IBISS, has been employed at the Institute since 2007 (research trainee, 2007-2010; research assistant, 2010-2015; research associate, 2015-2020; senior research associate, 2020-). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she got the MSc (2005) and Ph.D. (2014) degrees at the same faculty (FB-UB). The experimental part of her Ph.D. research was accomplished at the Pharmacognosy Laboratory of the Faculty of Pharmacy (Aristotle University of Thessaloniki, Greece). Her main research area is molecular biology of plant specialized metabolism and its regulation (e.g., the isolation and characterization of genes and enzymes involved in the production of bioactive compounds), and metabolic engineering. The multidisciplinary scientific approach and collaborations with researchers from Serbia and from abroad (Greece, The Netherlands, Germany) resulted in a significant number of publications in SCI journals (16) and others (conference lectures, proceedings), and the quality of her research is measurable through the number of citations (282) and Hirsch index of 9 according to the SCOPUS citation database. She was engaged in two national and two international projects during her career. Dr. Matekalo has participated as a member of the Organizing committees of the respectable national and international conferences, including those organized by the Serbian Plant Physiology Society and TERPNET. She is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS). She was supervising 1 Ph.D. and 1 MSc thesis. As devoted to the science promotion to the general public, Dragana participated in manifestations such as European Researchers’ Night (Marie Skłodowska-Curie actions) and Friendships Games (Novak Đoković Foundation), as well as in various activities of The Center for the Promotion of Science (Serbia). She translated a popular science book “What a Plant Knows: A Field Guide to the Senses” (author Daniel Chamovitz) into Serbian.",
+        "publications": {
+          "name": "Božić, D.",
+          "project": [
+            "Božić, D., Papaefthimiou, D., Brückner, K., De Vos, R.C., Tsoleridis, C.A., Katsarou, D., Papanikolaou, A., Pateraki, I., Chatzopoulou, F.M., Dimitriadou, E. and Kostas, S. (2015): Towards elucidating carnosic acid biosynthesis in Lamiaceae: functional characterization of the three first steps of the pathway in Salvia fruticosa and Rosmarinus officinalis. PLoS One, 10(5), p.e0124106.",
+            "Trikka, F.A., Nikolaidis, A., Ignea, C., Tsaballa, A., Tziveleka, L.A., Ioannou, E., Roussis, V., Stea, E.A., Božić, D., Argiriou, A., Kanellis, A.K. (2015): Combined metabolome and transcriptome profiling provides new insights into diterpene biosynthesis in S. pomifera glandular trichomes. BMC Genomics, 16(1), p.935.",
+            "Scheler, U., Brandt, W., Porzel, A., Rothe, K., Manzano, D., Božić, D., Papaefthimiou, D., Balcke, G.U., Henning, A., Lohse, S. and Marillonnet, S. (2016): Elucidation of the biosynthesis of carnosic acid and its reconstitution in yeast. Nature Communications, 7, p.12942.",
+            "Matekalo, D., Skorić, M., Nikolić, T., Novaković, L., Lukić, M., Božunović, J., Aničić, N., Filipović, B., Mišić, D. (2018): Organ-specific and genotype-dependent constitutive biosynthesis of secoiridoid glucosides in Centaurium erythraea Rafn, and its elicitation with methyl jasmonate. Phytochemistry, 155, pp.69-82.",
+            "Aničić, N., Matekalo, D., Skorić, M., Pećinar, I., Brkušanin, M., Nestorović Živković, J., Dmitrović, S., Dajić Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347-358."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“ (South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0”, “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X‐02), ",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Jasmina Nestorović Živković",
+        "title": "Senior Research Associate",
+        "participant": "P6",
+        "birth": "24th March 1981, Belgrade, Serbia",
+        "contact": "jasmina.nestorovic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-5670-4558",
+          "researchgate": "https://www.researchgate.net/profile/Jasmina-Nestorovic-Zivkovic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=55190883100",
+            "https://www.scopus.com/authid/detail.uri?authorId=35795890900"
+          ]
+        },
+        "bio": "Dr. Jasmina Nestorović Živković, Senior Research Associate at the Dpt. of Plant Physiology of the IBISS - National Institute of the Republic of Serbia, University of Belgrade., has been employed at the Institute since 2007 (research trainee, 2007-2010; research assistant, 2010-2014; research associate, 2014-2021; senior research associate, 2021-to date). After she graduated from the Faculty of Biology (2006), University of Belgrade (FB-UB), she earned Ph.D. (2013) degrees at the same faculty (FB-UB). She has published a significant number of publications in SCI journals (19) and others (conference lectures, proceedings, etc.), and the quality of her research is measurable through the number of citations (232) and Hirsch index of 8 according to the SCOPUS citation database. During her career, Dr. Jasmina Nestorović Živković was engaged within totally four national and five international projects. In 2018, she participated as a member of the Organizing Committee of the '3rd International Conference on Plant Biology (22nd SPPS Meeting)'. Dr. Nestorović Živković was actively involved as an Organizing team member in science promotion projects such as European Researchers' Night (Marie Skłodowska-Curie actions) (2018-2019; 2020). She was involved in the Europen Researchers' Night project before 2018 as a presenter. Jasmina participated in the first (2007) and second (2008) Science Festival in Serbia. Dr. Nestorović Živković was the Institute's presenter at the 63rd International Fair of Technics and Technical Achievements (2019). She is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS). Jasmina was engaged as a mentor of 1 MSc thesis and experimentally contributed to 2 Ph.D. and 1 MSc theses.",
+        "publications": {
+          "name": "Nestorović Živković, J.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020): Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Nestorović, J., Mišić, D., Šiler, B., Soković, M., Glamočlija, J., Ćirić A., Maksimović V., Grubišić D. (2010): Nepetalactone content in shoot cultures of three endemic Nepeta species and the evaluation of their antimicrobial activity. Fitoterapia, 81 (6): 621-626.",
+            "Aničić, N, Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Nestorović Živković, J., Dmitrović, S., Jovanović, V., Živković, S., Božić, D., Aničić, N., Mišić, D. (2016): Allelopathic potential of essential oil of Nepeta rtanjansis. Allelopathy Journal: 36 (2): 207-220.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. (2015): Simultaneous UHPLC/DAD/(+/_)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical Analysis, 26, 72–85."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“ (South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0”, “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X‐02), ",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Tijana Banjanac",
+        "title": "Research Associate",
+        "participant": "P7",
+        "birth": "9th August 1978, Belgrade, Serbia",
+        "contact": "tbanjanac@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0001-9023-9135",
+          "researchgate": "https://www.researchgate.net/profile/Tijana-Banjanac",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=29367580800"
+          ]
+        },
+        "bio": "Dr. Tijana Banjanac, Research Associate at the Dpt. Of Plant Physiology of the IBISS, has been employed at the Institute since 2007 (research trainee, 2007-2010; research assistant, 2008-2016; research associate 2016-). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she earned the Ph.D. (2016) degree at the same faculty (FB-UB). Dr. Banjanac's research work belongs to the fields of plant physiology, molecular biology, biotechnology, population, and evolutionary plant genetics. She was engaged as a mentor of 2 MSc theses and is a mentor of 1 Ph.D. thesis. Dr. Banjanac is a scientific associate in the Center of Excellence for Interdisciplinary Research in Biology at the IBISS (2020-2024). Since 2019, she has been the head of the Tissue culture lab with a preparative lab and sterile block at the Department of Plant Physiology of the IBISS. Since 2020, Dr. Banjanac has been the manager of The Seed Collection at the same institution. She published 18 manuscripts in respectable SCI journals and other publications (i.e., conference lectures and proceedings). The quality of her research is measurable through the number of citations (262) and Hirsch index of 10, according to the SCOPUS citation database. During her career, Dr. Banjanac was engaged within totally two national and one international project. Tijana is a member of The Federation of European Societies of Plant Biology (FESPB), the Serbian Plant Physiology Society (SPPS), and the Serbian Genetic Society (DGS).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Award for the best student poster presentation (2013) at the “1st International Conference on Plant Biology (20th SPPS Meeting)“, awarded by the Serbian Plant Physiology Society (SPPS)."
+          },
+          {
+            "name": "",
+            "text": "Award for the best student poster presentation (2015) at the “2nd International Conference on Plant Biology (21th SPPS Meeting)“, awarded by the Serbian Plant Physiology Society (SPPS)."
+          }
+        ],
+        "publications": {
+          "name": "Banjanac, T.",
+          "project": [
+            "Hadi, N., Shojaeiyan, A., Sefidkon, F., Jafari, A.-A., Mišić, D., Banjanac, T., Šiler, B. (2020): Assessment of genetic diversity of Nepeta kotschyi Boiss., a native Iranian medicinal plant. Journal of Agricultural Science and Technology 22 (5): 1327-1342.",
+            "Banjanac, T., Đurović, S., Jelić, M., Dragićević, M., Mišić, D., Skorić, M., Nestorović Živković, J., Šiler, B. (2019): Phenotypic and genetic variation of an interspecific Centaurium hybrid and its parental species. Plants, 8(7): 224.",
+            "Banjanac, T., Dragićević, M., Šiler, B., Gašić, B., Bohanec, B., Nestorović Živković, J., Trifunović, S., Mišić, D. (2017): Chemodiversity of two closely related tetraploid Centaurium species and their hexaploid hybrid: Metabolomic search for high-resolution taxonomic classifiers. Phytochemistry, 140: 27-44.",
+            "Banjanac, T., Skorić, M., Belamarić, M., Nestorović Živković, J., Mišić, D., Jelić, M., Dmitrović, S., Šiler, B. (2018): Pursuit for EST microsatellites in a tetraploid model from de novo transcriptome sequencing. Genetika, 50(2): 687-703.",
+            "Banjanac, T., Šiler, B., Skorić, M., Ghalawenji, N., Milutinović, M., Božić, D., Mišić, D. (2014): Interspecific in vitro hybridization in genus Centaurium and identification of hybrids via flow cytometry, RAPD, and secondary metabolite profiles. Turkish Journal of Botany, 38: 68-79."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Biljana Filipović",
+        "title": "Research Associate",
+        "participant": "P8",
+        "birth": "12th June 1975, Leskovac, Serbia",
+        "contact": "biljana.nikolic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "http://orcid.org/0000-0001-6639-5760",
+          "researchgate": "",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57212651250"
+          ]
+        },
+        "bio": "Dr. Biljana Filipović (born Nikolić), Research Associate at the Dpt. of Plant Physiology of the IBISS, has been employed at the Institute since 2005 (research trainee, 2005-2009; research assistant, 2009-2016; research associate, 2016-to date). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she earned the Ph.D. (2015) degree at the same faculty (FB-UB). She published 21 manuscripts in respectable SCI journals and other publications (conference lecturers, proceedings), and the quality of her research is measurable through the number of citations (126) and Hirsch index of 8 according to the SCOPUS citation database. During her career, Dr. Filipović was engaged in four national and three international projects. In 2018 and 2019, Dr. Filipović was actively involved in science promotion by participating as a member of the Organizing Committee of the European Researchers’ Night (Marie Skłodowska-Curie actions). Biljana is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Award of the “Goran Ljubijankić” Foundation for the best doctoral dissertation from the field of molecular biology defended during 2015."
+          }
+        ],
+        "publications": {
+          "name": "Filipović, B.",
+          "project": [
+            "Ćuković, K., Dragićević, M., Bogdanović, M., Paunović, D., Giurato, G., Filipović, B., Subotić, A., Todorović, S., Simonović, A. (2020). Plant regeneration in leaf culture of Centaurium erythraea Rafn. Part 3: de novo transcriptome assembly and validation of housekeeping genes for studies of in vitro morphogenesis. Plant Cell Tissue and Organ Culture 141:417-433.",
+            "Božunović, J., Skorić, M., Matekalo, D., Živković, S., Dragićević, M., Aničić, N., Filipović, B., Banjanac, T., Šiler, B. and Mišić, D. (2019). Secoiridoids Metabolism Response to Wounding in Common Centaury (Centaurium erythraea Rafn) Leaves. Plants, 8(12), p.589.",
+            "Filipović, B., Šiler, B., Nestorović Živković, J., Banjanac, T., Skorić, M., Božunović, J., Mišić, D. (2019). Diploid vs. tetraploid Centaurium erythraea Rafn: a comparative study of regenerative in vitro potential and biosynthetic capacity. Lekovite sirovine 39:52-59.",
+            "Matekalo, D., Skorić, M., Nikolić, T., Novaković, L., Lukić, M., Božunović, J., Aničić, N., Filipović, B., Mišić, D. (2018). Organ-specific and genotype-dependent constitutive biosynthesis of secoiridoid glucosides in Centaurium erythraea Rafn, and its elicitation with methyl jasmonate. Phytochemistry, 155, pp.69-82.",
+            "Kračun-Kolarević, M., Dmitrović, S., Filipović, B., Perić, M., Mišić, D., Simonović, A., Todorović, S. (2015). Influence of sodium salicylate on rosmarinic acid, carnosol and carnosic acid accumulation by Salvia officinalis L. shoots grown in vitro. Biotechnology Letters 37: 1693-1701."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2006-2011:",
+            "name": "“Light and hormonal regulation of growth and development, in vitro propagation and ex situ protection of rare and endemic plant species”, project No. 143031, sponsored by the Serbian Ministry of Science,",
+            "role": "Participant."
+          },
+          {
+            "year": "2009–2013:",
+            "name": "“TERPMED” Plant Terpenoids for Human Health: a chemical and genomic approach to identify and produce bioactive compounds”, FP7 project no. 227448.",
+            "role": "Participant."
+          },
+          {
+            "year": "2011-2019:",
+            "name": "”Physiological, chemical and molecular analysis of the selected rare and endangered plant species diversity with the aim of ex situ conservation and production of biologically active compounds”, funded by the Ministry of Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2018–2020",
+            "name": "ReFocus EU HORIZON 2020 MSCA-NIGHT-2018: „The Road to Friday of Science – ReFocus 2.0 - 818325“),",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality”, Cost Action CA18210 (Acronym RoxyCOST),",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Milica Milutinović",
+        "title": "Research Associate",
+        "participant": "P9, WP6 leader",
+        "birth": "12th December 1987, Belgrade, Serbia",
+        "contact": "milica.milutinovic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0003-0619-0709",
+          "researchgate": "https://www.researchgate.net/profile/Milica_Milutinovic2",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57192975504"
+          ]
+        },
+        "bio": "Dr. Milica Milutinović, Research Associate at the Dpt. of Plant Physiology of the IBISS, has been employed at the Institute since 2012 (research trainee, 2012-2013; research assistant, 2013-2020; research associate, 2020-). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she earned the MSc (2012) and Ph.D. (2019) degrees at the same faculty (FB-UB). The experimental part of her Ph.D. thesis was accomplished at The Ohio State University (USA), where she was also engaged in the Arabidopsis Biological Resource Center within the DNA distribution and donation working group. Dr. Milutinović has established successful collaborations with researchers from Serbia and abroad (USA, Germany). She published nine manuscripts in respectable SCI journals and other publications (conference lectures, proceedings, etc.). The quality of her research is measurable through the number of citations (148, excluding self-citations) and Hirsch index of 5 according to the SCOPUS citation database. During her career, Dr. Milutinović was engaged within totally one national and three international projects. In 2018, she participated as a member of the Organizing Committee of the „3rd International Conference on Plant Biology (22nd SPPS Meeting)“. Milica is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS). Dr. Milutinović was actively involved in science promotion by participating in projects such as European Researchers’ Night (Marie Skłodowska-Curie actions), Fascination of Plants Day (European Plant Science Organization), and Friendships Games (Novak Đoković Foundation). As an expert for real-time PCR analyses, she was delegated by IBISS management to help fight against the COVID-19 pandemic caused by the SARS-CoV-2, and she was engaged at the Institute for Virology, Vaccines and Sera “Torlak“ in Belgrade",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Award for the best young researcher (2018) at the “3rd International Conference on Plant Biology (22nd SPPS Meeting)“, awarded by the Serbian Plant Physiology Society (SPPS)."
+          }
+        ],
+        "publications": {
+          "name": "Milutinović, M.",
+          "project": [
+            "Živković, S., Milutinović, M., Maksimović, V., Ćirić, A., Ivanov, M., Božunović, J., Banjanac, T. and Mišić, D., 2020. Antioxidant and antimicrobial activity of two Asplenium species. South African Journal of Botany, 132, pp.180-187.",
+            "Milutinovic, M., Lindsey III, B.E., Wijeratne, A., Hernandez, J.M., Grotewold, N., Fernández, V., Grotewold, E., Brkljacic, J. (2019) Arabidopsis EMSY-like (EML) histone readers are necessary for post-fertilization seed development, but prevent fertilization-independent seed formation. Plant Science, 285: 99-109.",
+            "Dmitrović, S., Dragićević, M., Savić, J., Milutinović, M., Živković, S., Maksimović, V., Matekalo, D., Mišić, D. (2019) Nepetalactone-rich essential oil mitigates phosphinothricin-induced ammonium toxicity in Arabidopsis thaliana (L.) Heynh. Journal of plant physiology, 237: 87-94.",
+            "Coursey, T., Milutinović, M., Regedanz, E., Brkljačić, J., Bisaro, D.M., (2018) Arabidopsis Histone Reader EMSY-LIKE 1 Binds H3K36 and Suppresses Geminivirus Infection. Journal of virology, pp.JVI-00219.",
+            "Mišić, D., Šiler, B., Gašić, U., Avramov, S., Živković, S., Nestorović Živković, J., Milutinović, M., Tešić, Ž. (2015); Simultaneous UHPLC/DAD/(+/_)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of Nepeta Species: A Possible Application in Chemotaxonomic Studies. Phytochemical Analysis 2015, 26, 72–85."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2012-2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2013:",
+            "name": "“Molecular analysis of black poplar (Populus nigra L.) populations’ variability using molecular markers“, service contract financed by the South East Europe Transnational Cooperation Programme “DANUBEPARKS Step 2.0” - “Anchoring the Danube River Network of Protected Areas as Platform for Preservation of Danube Natural Heritage”– Ref. no: SEE/D/0165/2.3/X-02,",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality“, COST action No. OC-2018-2-23239,",
+            "role": "Participant."
+          },
+          {
+            "year": "2020-2024:",
+            "name": "„Plasma applications for smart and sustainable agriculture“, Cost Action CA19110,",
+            "role": "MC substitute."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Jelena Božunović",
+        "title": "Research Associate",
+        "participant": "P10",
+        "birth": "22nd December 1986, Belgrade, Serbia",
+        "contact": "jelena.boljevic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organisation (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": " https://orcid.org/0000-0001-8755-4361",
+          "researchgate": "https://www.researchgate.net/profile/Jelena-Boljevic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=57197875948"
+          ]
+        },
+        "bio": "Dr. Jelena Božunović (born Boljević), Research Associate at the Dpt. of Plant Physiology of the IBISS, has been employed at the Institute since 2013 (research trainee, 2013-2014; research assistant, 2014-2021; research associate, 2021- to date). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she earned the MSc (2013) and Ph.D. (2020) degrees at the same faculty (FB-UB). She published nine manuscripts in respectable SCI journals and other publications, and the quality of her research is measurable through the number of citations (78) and Hirsch index of 3 according to the SCOPUS citation database. During her career, Dr. Božunović was engaged within totally one national and one international project. In 2018, she participated as a member of the Organizing Committee of the „3rd International Conference on Plant Biology (22nd SPPS Meeting) “. She is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS). Currently, she is a co-mentor of one MSc and experimentally contributes to one Ph.D. thesis.  Jelena was a local organizer or participant in numerous science promotion activities within projects such as European Researchers’ Night (Marie Skłodowska-Curie actions), Fascination of Plants Day (European Plant Science Organization), and Friendships Games (Novak Đoković Foundation). Dr. Božunović is also engaged as a scientific associate in the Center of Excellence for Interdisciplinary Research in Biology at the IBISS (2020-2024).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "FESPB grant recipient (2018) - travel grants for graduate students and young Post Docs for attendance at the Plant Biology Europe (PBE) conference held in Copenhagen, Denmark."
+          }
+        ],
+        "publications": {
+          "name": "Božunović, J.",
+          "project": [
+            "Božunović, J., Skorić, M., Matekalo, D., Živković, S., Dragićević, M., Aničić, N., Filipović, B., Banjanac, T., Šiler, B. and Mišić, D., 2019. Secoiridoids Metabolism Response to Wounding in Common Centaury (Centaurium erythraea Rafn) Leaves. Plants, 8(12), p.589.",
+            "Matekalo, D., Skorić, M., Nikolić, T., Novaković, L., Lukić, M., Božunović, J., Aničić, N., Filipović, B., Mišić, D. (2018): Organ-specific and genotype-dependent constitutive biosynthesis of secoiridoid glucosides in Centaurium erythraea Rafn, and its elicitation with methyl jasmonate. Phytochemistry, 155, pp.69-82.",
+            "Božunović, J., Živković, S., Gašić, U., Glamočlija, J., Ćirić, A., Matekalo, D., Šiler, B., Soković, M., Tešić, Ž. and Mišić, D., 2018. In vitro and in vivo transformations of Centaurium erythraea secoiridoid glucosides alternate their antioxidant and antimicrobial capacity. Industrial crops and products, 111, pp.705-721.",
+            "Dmitrović, S., Škorić, M., Boljević, J., Aničić, N., Božić, D., Mišić, D., Filipović, V. and Opsenica, D., 2016. Elicitation effects of a synthetic 1, 2, 4, 5-tetraoxane and a 2, 5-diphenylthiophene in shoot cultures of two Nepeta species. Journal of the Serbian Chemical Society, 81(9), pp.999-1012.",
+            "Dmitrović, S., Perišić, M., Stojić, A., Živković, S., Boljević, J., Nestorović Živković J., Aničić, N., Ristić, M.,  Mišić, D. (2015): Essential oils of two Nepeta species inhibit growth and induce oxidative stress in ragweed  (Ambrosia artemisiifolia L.) shoots in vitro. Acta Physiologiae Plantarum 37 (3): 1-15."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2013–2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality“, COST action No. OC-2018-2-23239,",
+            "role": "Participant."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Neda Aničić",
+        "title": "Research Associate",
+        "participant": "P11",
+        "birth": "11th July 1989, Belgrade, Serbia",
+        "contact": "neda.anicic@ibiss.bg.ac.rs",
+        "role": "Accredited Scientific and Research Organization (SRO): Institute for Biological Research “Siniša Stanković”-National Institute of Republic of Serbia, University of Belgrade (SRO acronym: IBISS)- Bulevar despota Stefana 142, 11060 Belgrade, Serbia.",
+        "link": {
+          "orcid": "https://orcid.org/0000-0003-4184-1263",
+          "researchgate": "https://www.researchgate.net/profile/Neda-Anicic",
+          "scopus": [
+            "https://www.scopus.com/authid/detail.uri?authorId=56536850700"
+          ]
+        },
+        "bio": "Dr. Neda Aničić, Research Associate at the Dpt. of Plant Physiology of the IBISS, has been employed at the Institute since 2013. (research trainee, 2013-2015; research assistant, 2015-2021;  research associate, 2021-to date). After she graduated from the Faculty of Biology, University of Belgrade (FB-UB), she got the MSc (2013) and Ph.D. (2020) degrees at the same faculty (FB-UB). She was a Visiting Scholar at the Institute for Systematic Botany and Ecology, University of Ulm, Germany (2014), and at the Pharmacognosy Laboratory of the Faculty of Pharmacy, Aristotle University of Thessaloniki, Greece (2015). Dr. Aničić has collaborated with researchers from Serbia and abroad (Greece, Germany, Iran). She has published publications in SCI list journals (12), and the quality of her research is measurable through the number of citations (75) and Hirsch index of 4, according to the SCOPUS citation database. Dr. Aničić was engaged in one national and two international projects during her career. She participated as a member of the Organizing Committee of the „3rd International Conference on Plant Biology (22nd SPPS Meeting)” in 2018. Dr. Aničić has participated in science promotion projects such as European Researchers’ Night (Marie Skłodowska-Curie actions), Fascination of Plants Day (European Plant Science Organization), and Friendships Games (Novak Đoković Foundation). Currently, she is a co-mentor of one MSc and experimentally contributes to one Ph.D. thesis. Dr. Aničić is also engaged as a scientific associate in the Center of Excellence for Interdisciplinary Research in Biology at the IBISS (2020-2024). She is a member of The Federation of European Societies of Plant Biology (FESPB) and the Serbian Plant Physiology Society (SPPS).",
+        "prizes": [
+          {
+            "name": "",
+            "text": "Award for the best student poster presentation (2015) at the “3rd International Conference on Plant Biology (22nd SPPS Meeting) “, awarded by the Serbian Plant Physiology Society (SPPS)."
+          },
+          {
+            "name": "",
+            "text": "STSM Grant recipient (2015) - sponsored by the Cost Action CA1106 (Acronym QualityFruit), supervisor prof. Angelos Kanellis, Pharmacognosy Laboratory of the Faculty of Pharmacy, Aristotle University of Thessaloniki, Greece (Research Topic: Phenylpropanoid biosynthesis genes in Cistus fruits: identification and expression analysis)."
+          },
+          {
+            "name": "",
+            "text": "Award of the “Goran Ljubijankić” Foundation for the best doctoral dissertation from the field of molecular biology defended during 2020."
+          }
+        ],
+        "publications": {
+          "name": "Aničić, N.",
+          "project": [
+            "Aničić, N., Matekalo, D., Skorić, M., Nestorović Živković, J., Petrović, L., Dragićević, M., Dmitrović, S., Mišić, D. (2020): Alterations in nepetalactone metabolism during polyethylene glycol (PEG)-induced dehydration stress in two Nepeta species. Phytochemistry, 174, 112340.",
+            "Aničić, N., Matekalo, D., Skorić, M., Pećinar, I., Nestorović-Živković, J., Dmitrović, S., Dajić-Stevanović, Z., Schulz, H., Mišić, D. (2018): Trichome-specific and developmentally regulated biosynthesis of nepetalactones in leaves of cultivated Nepeta rtanjensis plants. Industrial Crops and Products 117: 347‐358.",
+            "Aničić, N., Gašić, U., Lu, F., Ćirić, A., Ivanov, M., Jevtić, B., Dimitrijević, M., Anđelković, B., Skorić, M., Nestorović Živković, J., Mao, Y. (2021): Antimicrobial and immunomodulating activities of two endemic Nepeta species and their major iridoids isolated from natural sources. Pharmaceuticals, 14(5), p.414.",
+            "Hadi, N., Sefidkon, F., Shojaeiyan, A., Šiler, B., Jafari, A.-A., Aničić, N., Mišić, D. (2017): Phenolics’ composition in four endemic Nepeta species from Iran cultivated under experimental field conditions: The possibility of the exploitation of Nepeta germplasm. Industrial Crops and Products, 95: 475-484.",
+            "Dmitrović, S., Perišić, M., Stojić, A., Živković, S., Boljević, J., Nestorović Živković J., Aničić, N., Ristić, M., Mišić, D. (2015): Essential oils of two Nepeta species inhibit growth and induce oxidative stress in ragweed  (Ambrosia artemisiifolia L.) shoots in vitro. Acta Physiologiae Plantarum 37 (3): 1-15."
+          ]
+        },
+        "projects": [
+          {
+            "year": "2013–2019:",
+            "name": "“Physiological, chemical and molecular analysis of the diversity of rare and endangered plant species towards ex situ protection and production of biologically active compounds“, funded by the Ministry of Education, Science and Technological Development of the Republic of Serbia (grant No.173024),",
+            "role": "Participant."
+          },
+          {
+            "year": "2015–2016:",
+            "name": "„An Integrated System Approach to Determine the Developmental Mechanisms Controlling Fleshy Fruit Quality in Tomato and Grapevine“, Cost Action CA1106 (akronim QualityFruit),",
+            "role": "Participant."
+          },
+          {
+            "year": "2019-2023:",
+            "name": "“Oxygen sensing a novel mean for biology and technology of fruit quality“, COST action No. OC-2018-2-23239,",
+            "role": "Participant."
+          }
+        ]
+      }
+    ]
+  }
+}

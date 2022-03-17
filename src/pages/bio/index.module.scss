@@ -1,0 +1,78 @@
+@import 'src/style/base.scss';
+
+.main {
+  padding-top: 5rem;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  @include body-leadership;
+}
+
+.topCard {
+  display: flex;
+
+}
+
+.generalInfo {
+  margin-left: 2rem;
+}
+
+.bioImage {
+  width: 16.5rem;
+  height: 24.75rem;
+  object-fit: cover;
+}
+
+.nameAccent {
+  color: $text-red;
+  font-weight: bold;
+}
+
+.textAccent {
+  font-weight: bold;
+}
+
+.contact {
+  margin-right: 0.5rem;
+}
+
+.link {
+  color: $blue;
+  opacity: 1;
+  transition: opacity $duration-2;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.scopusWrapper {
+  display: flex;
+}
+
+.scopus {
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.5rem;
+}
+
+.bio {
+  margin-top: 1rem;
+}
+
+.prizesTitle {
+  margin: 2rem 0;
+  text-decoration: underline;
+}
+
+.projectsWrapper {
+  display: flex;
+}
+
+.year {
+  width: 9rem;
+  flex-shrink: 0;
+  margin-right: 0.7rem;
+}

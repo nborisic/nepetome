@@ -50,11 +50,7 @@ const Gallery = () => {
                     : null
                 }
               >
-                <img
-                  className="img-responsive"
-                  className={styles.galleryItem}
-                  src={image.href}
-                />
+                <img className={styles.galleryItem} src={image.href} />
               </a>
             );
           })}
