@@ -20,7 +20,12 @@ const Homepage = () => {
       <div className={styles.logoWrapper}>
         <img src={logo} alt="logo" className={styles.logo} />
       </div>
-      <div className={styles.title}>{copy[language].title}</div>
+      <div
+        className={styles.title}
+        dangerouslySetInnerHTML={{
+          __html: copy[language].title,
+        }}
+      />
       <div className={styles.cardsWrapper}>
         <HomepageCards
           title={tabs[language]['about-project']}

@@ -1,90 +1,12 @@
 {
   "srb": {
-    "title": "Impementacija projekta NEPETOME se odvija kroz šest radnih paketa, odnosno četiri istraživačka radna paketa, jednog radnog paketa za upravljanje projektom i jednog radnog paketa za diseminaciju.",
-    "description": "Prikaz strukturne organizacije rada projekta NEPETOME",
     "phdTitle": "Dr",
     "studentTitle": "doktorand",
-    "pi": "rukovodilac projekta",
-    "table": [
-      {
-        "id": "WP NUMBER",
-        "title": "WP TITLE",
-        "coordinator": "WP COORDINATOR - TEAM MEMBERS' ID"
-      },
-      {
-        "id": 1,
-        "title": "Metabolomics for the iridoid diversity assessment",
-        "coordinator": "Uroš Gašić - P1"
-      },
-      {
-        "id": 2,
-        "title": "Comparative transcriptomics",
-        "coordinator": "Branislav Šiler - P2"
-      },
-      {
-        "id": 3,
-        "title": "Gene co-expression analysis",
-        "coordinator": "Marijana Skorić - P4"
-      },
-      {
-        "id": 4,
-        "title": "Functional genomics and metabolic engineering",
-        "coordinator": "Dragana Matekalo - P5"
-      },
-      {
-        "id": 5,
-        "title": "Project management",
-        "coordinator": "Danijela Mišić - PI"
-      },
-      {
-        "id": 6,
-        "title": "Dissemination",
-        "coordinator": "Milica Milutinović - P9"
-      }
-    ]
+    "pi": "rukovodilac projekta"
   },
   "en": {
-    "title": "NEPETOME implementation takes place through 6 work packages, namely 4 research WPs, 1 management WP, and 1 dissemination WP.",
-    "description": "A brief presentation of the overall structure of the NEPETOME work plan.",
     "phdTitle": "Dr.",
     "studentTitle": "Ph.D. student",
-    "pi": "Principal Investigator",
-    "table": [
-      {
-        "id": "WP NUMBER",
-        "title": "WP TITLE",
-        "coordinator": "WP COORDINATOR - TEAM MEMBERS's ID"
-      },
-      {
-        "id": 1,
-        "title": "Metabolomics for the iridoid diversity assessment",
-        "coordinator": "Uroš Gašić - P1"
-      },
-      {
-        "id": 2,
-        "title": "Comparative transcriptomics",
-        "coordinator": "Branislav Šiler - P2"
-      },
-      {
-        "id": 3,
-        "title": "Gene co-expression analysis",
-        "coordinator": "Marijana Skorić - P4"
-      },
-      {
-        "id": 4,
-        "title": "Functional genomics and metabolic engineering",
-        "coordinator": "Dragana Matekalo - P5"
-      },
-      {
-        "id": 5,
-        "title": "Project management",
-        "coordinator": "Danijela Mišić - PI"
-      },
-      {
-        "id": 6,
-        "title": "Dissemination",
-        "coordinator": "Milica Milutinović - P9"
-      }
-    ]
+    "pi": "Principal Investigator"
   }
 }

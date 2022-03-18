@@ -21,7 +21,12 @@ const NavigationTabs = () => {
           });
 
           return (
-            <Link to={routes[link]} className={tabClasses} key={link}>
+            <Link
+              to={routes[link]}
+              className={tabClasses}
+              key={link}
+              onClick={() => window.scrollTo(0, 0)}
+            >
               {tabs[language][link]}
             </Link>
           );

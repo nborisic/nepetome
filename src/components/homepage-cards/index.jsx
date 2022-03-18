@@ -6,7 +6,12 @@ const HomepageCards = ({ title, children, linkHref, linkText }) => {
     <div className={styles.wrapper}>
       <h3 className={styles.title}>{title}</h3>
       <div className={styles.textWrapper}>
-        <div className={styles.text}>{children}</div>
+        <div
+          className={styles.text}
+          dangerouslySetInnerHTML={{
+            __html: children,
+          }}
+        />
         <Link to={linkHref} className={styles.link}>
           {linkText}
         </Link>

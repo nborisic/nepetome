@@ -3,7 +3,6 @@ import cx from 'classnames';
 import Header from '../../components/header';
 import Main from '../../components/main';
 import { Link } from 'react-router-dom';
-import implementationEngSrc from '../../assets/images/implementation-eng.jpg';
 import * as copy from '../../copy/participants.json';
 import * as bio from '../../copy/bio.json';
 import p0 from '../../assets/images/participents/0.jpg';
@@ -41,30 +40,9 @@ export const bioMap = {
 const Participants = () => {
   const { language } = useLanguage();
 
-  const imageMap = {
-    srb: implementationEngSrc,
-    en: implementationEngSrc,
-  };
-
   return (
     <Main className={styles.main}>
       <Header title="participants" />
-      <div className={styles.header}>{copy[language].title}</div>
-      <div className={styles.imageWrapper}>
-        <img src={imageMap[language]} alt="" className={styles.img} />
-        <div>{copy[language].description}</div>
-      </div>
-      <div className={styles.tableWrapper}>
-        {copy[language].table.map(row => {
-          return (
-            <div className={styles.rowWrapper} key={row.id}>
-              <div className={styles.id}>{row.id}</div>
-              <div className={styles.title}>{row.title}</div>
-              <div className={styles.coordinator}>{row.coordinator}</div>
-            </div>
-          );
-        })}
-      </div>
       <div className={styles.bioOuterWrapper}>
         <Link className={styles.bioWrapper} to={`/bio?id=0`}>
           <div className={styles.bioContent}>
