@@ -4,12 +4,12 @@ import { useLanguage } from '../language-selector/language-hook';
 
 import styles from './index.module.scss';
 
-const Header = ({ title }) => {
+const Header = ({ title, override = false }) => {
   const { language } = useLanguage();
 
   return (
     <div className={styles.header}>
-      <h1>{tabs[language][title]}</h1>
+      <h1>{override ? title : tabs[language][title]}</h1>
       <Divider />
     </div>
   );
