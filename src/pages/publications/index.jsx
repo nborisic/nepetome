@@ -7,10 +7,29 @@ import styles from './index.module.scss';
 
 const Publications = () => {
   const { language } = useLanguage();
-  console.log(copy[language]);
+  const { list } = copy;
+
   return (
     <Main className={styles.main}>
       <Header title={copy[language].title} override />
+      <div className={styles.subtitle}>{copy[language].subtitle}</div>
+      <ul>
+        {list.map(publication => {
+          return (
+            <a
+              href={publication.link}
+              key={publication.link}
+              className={styles.link}
+            >
+              <li
+                dangerouslySetInnerHTML={{
+                  __html: publication.text,
+                }}
+              />
+            </a>
+          );
+        })}
+      </ul>
     </Main>
   );
 };

@@ -1,45 +1,47 @@
 {
   "srb": {
     "title": "PUBLIKACIJE NAŠE GRUPE",
-    "subtitle": "PRE PROJEKTA NEPETOME:",
-    "footnote": "Tri, četiri, sad! Prva grupa naših Nepeta je prebačena iz kontrolisanih in vitro uslova u staklaru na aklimatizaciju."
+    "subtitle": "PRE PROJEKTA NEPETOME:"
   },
   "en": {
     "title": "PUBLICATIONS OF OUR GROUP",
-    "subtitle": "BEFORE NEPETOME:",
-    "footnote": "Ready, set, go! The first bunch of our Nepeta plants are transfered from in vitro to green house conditions. "
+    "subtitle": "BEFORE NEPETOME:"
   },
-  "publications": [
+  "list": [
     {
-      "text": "Mišić, Danijela, Nabil Ghalawenji, Dragoljub V. Grubišić, and Radomir M. Konjević. 2005.“Micropropagation   and   Reintroduction   of <i>Nepeta rtanjensis</i>,   an   Endemic   andCritically Endangered Perennial of Serbia.”  <i>Phyton-Annales Rei   Botanicae</i>  45 (1).",
+      "text": "Mišić, Danijela, Nabil Ghalawenji, Dragoljub V. Grubišić, and Radomir M. Konjević. 2005. “Micropropagation   and   Reintroduction   of <i>Nepeta rtanjensis</i>,   an   Endemic   and Critically Endangered Perennial of Serbia.”  <i>Phyton-Annales Rei   Botanicae</i>  45 (1).",
       "link": "https://radar.ibiss.bg.ac.rs/handle/123456789/1722"
     },
     {
-      "text": "Todorović, Slađana, Suzana Živković, Zlatko Giba, Dragoljub Grubišić, and Danijela Mišić.2007.   “Basic   Seed   Germination   Characteristics   of   the   Endemic   Species  <i>Nepeta rtanjensis</i>  (Lamiaceae).”  <i>Plant   Species   Biology</i>  22   (3):   205–10.",
+      "text": "Todorović, Slađana, Suzana Živković, Zlatko Giba, Dragoljub Grubišić, and Danijela Mišić. 2007.   “Basic   Seed   Germination   Characteristics   of   the   Endemic   Species  <i>Nepeta rtanjensis</i>  (Lamiaceae).”  <i>Plant   Species   Biology</i>  22   (3):   205–10.",
       "link": "https://doi.org/10.1111/j.1442-1984.2007.00193.x"
     },
     {
-      "text": "Grbić-Ljaljević, Milica, Miloš Stupar, Jelena Vukojević, Marina Soković, Danijela Mišić,Dragoljub   Grubišić,   and   Mihailo   Ristić.   2008.   “Antifungal   Activity   of  <i>Nepeta rtanjensis</i>  Essential Oil.” <i>Journal of the Serbian Chemical Society</i> 73 (10): 961–65.",
+      "text": "Grbić-Ljaljević, Milica, Miloš Stupar, Jelena Vukojević, Marina Soković, Danijela Mišić, Dragoljub   Grubišić,   and   Mihailo   Ristić.   2008.   “Antifungal   Activity   of  <i>Nepeta rtanjensis</i>  Essential Oil.” <i>Journal of the Serbian Chemical Society</i> 73 (10): 961–65.",
+      "link": "https://doi.org/10.2298/JSC0810961G"
+    },
+    {
+      "text": "Nestorović, Jasmina, Danijela Mišić, Branislav Šiler, Marina Soković, Jasmina Glamočlija, Ana Ćirić, Vuk Maksimović, and Dragoljub Grubišić. 2010. “Nepetalactone Contentin Shoot Cultures of Three Endemic  <i>Nepeta</i>  Species and the Evaluation of TheirAntimicrobial   Activity.”  <i>Fitoterapia</i>  81   (6):   621–26.",
       "link": "https://doi.org/10.1016/j.fitote.2010.03.007"
     },
     {
-      "text": "Nestorović, Jasmina, Danijela Mišić, Branislav Šiler, Marina Soković, Jasmina Glamočlija,Ana Ćirić, Vuk Maksimović, and Dragoljub Grubišić. 2010. “Nepetalactone Contentin Shoot Cultures of Three Endemic  <i>Nepeta</i>  Species and the Evaluation of TheirAntimicrobial   Activity.”  <i>Fitoterapia</i>  81   (6):   621–26.",
-      "link": ""
-    },
-    {
-      "text": "Dmitrović,   Slavica,   Mirjana   Perišić,   Andreja   Stojić,   Suzana   Živković,   Jelena   Boljević,Jasmina Nestorović Živković, Neda Aničić, Mihailo Ristić, and Danijela Mišić. 2015.“Essential Oils of Two <i>Nepeta</i> Species Inhibit Growth and Induce Oxidative Stress inRagweed (<i>Ambrosia artemisiifolia</i> L.) Shoots in Vitro.” <i>Acta Physiologiae Plantarum</i> 37 (3): 64. ",
+      "text": "Dmitrović,   Slavica,   Mirjana   Perišić,   Andreja   Stojić,   Suzana   Živković,   Jelena   Boljević, Jasmina Nestorović Živković, Neda Aničić, Mihailo Ristić, and Danijela Mišić. 2015. “Essential Oils of Two <i>Nepeta</i> Species Inhibit Growth and Induce Oxidative Stress in Ragweed (<i>Ambrosia artemisiifolia</i> L.) Shoots in Vitro.” <i>Acta Physiologiae Plantarum</i> 37 (3): 64. ",
       "link": "https://doi.org/10.1007/s11738-015-1810-2"
     },
     {
-      "text": "Mišić, Danijela, Branislav Šiler, Uroš Gašić, Stevan Avramov, Suzana Živković, JasminaNestorović Živković, Milica Milutinović, and Živoslav Tešić. 2015. “SimultaneousUHPLC/DAD/(+/−)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones inMethanol Extracts of <i>Nepeta</i> Species: A Possible Application in ChemotaxonomicStudies.” <i>Phytochemical Analysis</i> 26 (1): 72–85. ",
+      "text": "Mišić, Danijela, Branislav Šiler, Uroš Gašić, Stevan Avramov, Suzana Živković, Jasmina Nestorović Živković, Milica Milutinović, and Živoslav Tešić. 2015. “Simultaneous UHPLC/DAD/(+/−)HESI–MS/MS Analysis of Phenolic Acids and Nepetalactones in Methanol Extracts of <i>Nepeta</i> Species: A Possible Application in Chemotaxonomic Studies.” <i>Phytochemical Analysis</i> 26 (1): 72–85. ",
       "link": "https://doi.org/10.1002/pca.2538"
     },
     {
-      "text": "Dmitrović, Slavica, Marijana Skorić, Jelena Boljević, Neda Aničić, Dragana Božić, DanijelaMišić, Vuk Filipović, and Dejan Opsenica. 2016. “Elicitation Effects of Synthetic1,2,4,5-Tetraoxane   and   2,5-Diphenyltiophene   in   Shoot   Cultures   of   Two  NepetaSpecies.” Journal of the Serbian Chemical Society 81 (9): 999–1012.Banjanac, Tijana, Milan Dragićević, Branislav Šiler, Uroš Gašić, Borut Bohanec, JasminaNestorović Živković, Snežana Trifunović, and Danijela Mišić. 2017. “Chemodiversity of Two Closely Related Tetraploid Centaurium Species and Their Hexaploid Hybrid:Metabolomic   Search   for  High-Resolution   Taxonomic   Classifiers.”  <i>Phytochemistry</i> 140 (August): 27–44. ",
-      "link": "https://doi.org/10.1016/j.phytochem.2017.04.005"
+      "text": "Dmitrović, Slavica, Marijana Skorić, Jelena Boljević, Neda Aničić, Dragana Božić, Danijela Mišić, Vuk Filipović, and Dejan Opsenica. 2016. “Elicitation Effects of Synthetic 1,2,4,5-Tetraoxane   and   2,5-Diphenyltiophene   in   Shoot   Cultures   of   Two  <i>Nepeta</i> Species.” Journal of the Serbian Chemical Society 81 (9): 999–1012.",
+      "link": "http://dx.doi.org/10.2298/JSC160226054D"
     },
     {
-      "text": "Božunović, Jelena, Suzana Živković, Uroš Gašić, Jasmina Glamočlija, Ana Ćirić, DraganaMatekalo, Branislav Šiler, Marina Soković, Živoslav Tešić, and Danijela Mišić. 2018.“In   Vitro   and   in   Vivo   Transformations   of  <i>Centaurium   erythraea</i>  Secoiridoid Glucosides Alternate Their Antioxidant and Antimicrobial Capacity.” <i>Industrial Cropsand Products</i> 111 (January): 705–21.",
+      "text": "Banjanac, Tijana, Milan Dragićević, Branislav Šiler, Uroš Gašić, Borut Bohanec, Jasmina Nestorović Živković, Snežana Trifunović, and Danijela Mišić. 2017. “Chemodiversity of Two Closely Related Tetraploid Centaurium Species and Their Hexaploid Hybrid: Metabolomic   Search   for  High-Resolution   Taxonomic   Classifiers.”  <i>Phytochemistry</i> 140 (August): 27–44.",
+      "link": "https://doi.org/10.1016/j.phytochem.2017.04.005."
+    },
+    {
+      "text": "Božunović, Jelena, Suzana Živković, Uroš Gašić, Jasmina Glamočlija, Ana Ćirić, Dragana Matekalo, Branislav Šiler, Marina Soković, Živoslav Tešić, and Danijela Mišić. 2018. “In   Vitro   and   in   Vivo   Transformations   of  <i>Centaurium   erythraea</i>  Secoiridoid Glucosides Alternate Their Antioxidant and Antimicrobial Capacity.” <i>Industrial Cropsand Products</i> 111 (January): 705–21.",
       "link": "https://doi.org/10.1016/j.indcrop.2017.11.040"
     },
     {
@@ -51,27 +53,27 @@
       "link": "https://doi.org/10.1016/j.indcrop.2017.02.027"
     },
     {
-      "text": "Aničić, Neda, Dragana Matekalo, Marijana Skorić, Ilinka Pećinar, Miloš Brkušanin, JasminaNestorović Živković, Slavica Dmitrović, Zora Dajić Stevanović, Hartwig Schulz, and Danijela   Mišić.   2018.   “Trichome-Specific   and   Developmentally   Regulated Biosynthesis of Nepetalactones in Leaves of Cultivated  <i>Nepeta   rtanjensis</i>  Plants.” <i>Industrial   Crops   and   Products</i>  117   (July):   347–58.",
+      "text": "Aničić, Neda, Dragana Matekalo, Marijana Skorić, Ilinka Pećinar, Miloš Brkušanin, Jasmina Nestorović Živković, Slavica Dmitrović, Zora Dajić Stevanović, Hartwig Schulz, and Danijela   Mišić.   2018.   “Trichome-Specific   and   Developmentally   Regulated Biosynthesis of Nepetalactones in Leaves of Cultivated  <i>Nepeta   rtanjensis</i>  Plants.” <i>Industrial   Crops   and   Products</i>  117   (July):   347–58.",
       "link": "https://doi.org/10.1016/j.indcrop.2018.03.019"
     },
     {
       "text": "Banjanac, Tijana, Marijana Skorić, Mario Belamarić, Jasmina Nestorović-Živković, Danijela Mišić, Mihailo Jelić, Slavica Dmitrović, and Branislav Šiler. 2018. “Pursuit for Est Microsatellites in   a   Tetraploid  Model from  de   Novo   Transcriptome Sequencing.” <i>Genetika</i> 50 (2): 687–703.",
-      "link": ""
+      "link": "https://doi.org/10.2298/GENSR1802687B"
     },
     {
       "text": "Matekalo, Dragana, Marijana Skorić, Tijana Nikolić, Lazar Novaković, Milana Lukić, Jelena Božunović, Neda Aničić, Biljana Filipović, and Danijela Mišić. 2018. “Organ-Specific and   Genotype-Dependent   Constitutive   Biosynthesis   of   Secoiridoid   Glucosides   in <i>Centaurium   erythraea</i>  Rafn,   and   Its   Elicitation   with   Methyl   Jasmonate.” <i>Phytochemistry</i>  155   (November):   69–82.",
       "link": "https://doi.org/10.1016/j.phytochem.2018.07.015"
     },
     {
-      "text": "Nestorović-Živković,   Jasmina,   Suzana   Živković,   Branislav   Šiler,   Neda   Aničić,   Slavica Dmitrović,   Aleksandra   Divac-Rankov,   Zlatko   Giba,   and   Danijela   Mišić.   2018.“Differences in Bioactivity of Three Endemic  <i>Nepeta</i>  Species Arising  from Main Terpenoid and Phenolic Constituents.” <i>Archives of Biological Sciences</i> 70 (1): 63–76.",
-      "link": ""
+      "text": "Nestorović-Živković,   Jasmina,   Suzana   Živković,   Branislav   Šiler,   Neda   Aničić,   Slavica Dmitrović,   Aleksandra   Divac-Rankov,   Zlatko   Giba,   and   Danijela   Mišić.   2018. “Differences in Bioactivity of Three Endemic  <i>Nepeta</i>  Species Arising  from Main Terpenoid and Phenolic Constituents.” <i>Archives of Biological Sciences</i> 70 (1): 63–76.",
+      "link": "https://doi.org/10.2298/ABS170616026N"
     },
     {
       "text": "Banjanac, Tijana, Sanja Đurović, Mihailo Jelić, Milan Dragićević, Danijela Mišić, Marijana Skorić,  Jasmina Nestorović  Živković,  and Branislav  Šiler. 2019.  “Phenotypic and Genetic   Variation   of   an   Interspecific  <i>Centaurium</i>  Hybrid   (Gentianaceae)   and   Its Parental Species.” <i>Plants</i> 8 (7): 224. ",
       "link": "https://doi.org/10.3390/plants8070224"
     },
     {
-      "text": "Božunović, Jelena, Marijana Skorić, Dragana Matekalo, Suzana Živković, Milan Dragićević, Neda Aničić, Biljana Filipović, Tijana Banjanac, Branislav Šiler, and Danijela Mišić.2019.   “Secoiridoids   Metabolism   Response   to   Wounding   in   Common   Centaury(<i>Centaurium   erythraea</i>  Rafn)   Leaves.”  <i>Plants</i>  8   (12):   589.",
+      "text": "Božunović, Jelena, Marijana Skorić, Dragana Matekalo, Suzana Živković, Milan Dragićević, Neda Aničić, Biljana Filipović, Tijana Banjanac, Branislav Šiler, and Danijela Mišić. 2019.   “Secoiridoids   Metabolism   Response   to   Wounding   in   Common   Centaury(<i>Centaurium   erythraea</i>  Rafn)   Leaves.”  <i>Plants</i>  8   (12):   589.",
       "link": "https://doi.org/10.3390/plants8120589"
     },
     {
@@ -88,7 +90,7 @@
     },
     {
       "text": "Hadi, N., A. Shojaeiyan, F. Sefidkon, A. A. Jafari, Danijela Mišić, Tijana Banjanac, and Branislav   Šiler.   2020.   “Assessment   of   Infraspecific   Genetic   Diversity   in  <i>Nepeta kotschyi</i>  Boiss., a Native Iranian Medicinal Plant.”  <i>Journal of Agricultural Scienceand Technology</i> 22 (5): 1327–42.",
-      "link": ""
+      "link": "https://radar.ibiss.bg.ac.rs/bitstream/handle/123456789/3968/mdrsjrns-v22n5p1327-en.pdf?sequence=1"
     },
     {
       "text": "Aničić,   Neda,   Uroš   Gašić,   Feng   Lu,   Ana   Ćirić,   Marija   Ivanov,   Bojan   Jevtić,   Milena Dimitrijević, et al. 2021. “Antimicrobial and Immunomodulating Activities of TwoEndemic  <i>Nepeta</i>  Species and Their Major Iridoids Isolated from Natural Sources.” <i>Pharmaceuticals</i> 14 (5): 414. ",
