@@ -12,12 +12,13 @@
 }
 
 .title {
-  @include header2;
-  margin: 0 auto;
+  margin: 6rem auto 4rem;
   color: $red;
+  @include header2;
 
   @include md {
-    width: 60%;
+    width: 85%;
+    text-align: center;
   }
 }
 

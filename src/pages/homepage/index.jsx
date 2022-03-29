@@ -12,20 +12,19 @@ import { Link } from 'react-router-dom';
 import styles from './index.module.scss';
 
 const Homepage = () => {
-  // const { language } = useLanguage();
-  const language = 'srb';
+  const { language } = useLanguage();
 
   return (
     <Container className={styles.homepage}>
-      <div className={styles.logoWrapper}>
-        <img src={logo} alt="logo" className={styles.logo} />
-      </div>
       <div
         className={styles.title}
         dangerouslySetInnerHTML={{
           __html: copy[language].title,
         }}
       />
+      <div className={styles.logoWrapper}>
+        <img src={logo} alt="logo" className={styles.logo} />
+      </div>
       <div className={styles.cardsWrapper}>
         <HomepageCards
           title={tabs[language]['about-project']}

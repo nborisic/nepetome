@@ -22,6 +22,14 @@ const Bio = () => {
     });
   }, []);
 
+  const getPublicationWithBold = (publication, name) => {
+    let text = publication;
+    name.forEach(name => {
+      text = text.replace(name, `<b>${name}</b>`);
+    });
+    return text;
+  };
+
   return (
     <Main className={styles.main}>
       <div className={styles.wrapper}>
@@ -126,9 +134,9 @@ const Bio = () => {
               return (
                 <li
                   dangerouslySetInnerHTML={{
-                    __html: project.replace(
+                    __html: getPublicationWithBold(
+                      project,
                       userBio.publications.name,
-                      `<b>${userBio.publications.name}</b>`,
                     ),
                   }}
                 />

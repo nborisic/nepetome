@@ -4,6 +4,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  font-size: 1.8rem;
+  line-height: 2.4rem;
+
 
   @include md {
     flex-direction: row;
@@ -33,7 +36,7 @@
 }
 
 .innerWrapper {
-  flex-basis: 0.5;
+  flex-basis: 31%;
 
   &:first-child {
     margin-bottom: 3rem;
@@ -56,8 +59,11 @@
   display: flex;
   width: 100%;
   align-items: center;
-  justify-content: space-between;
   padding-left: 3.4rem;
+
+  .iconLink:not(:first-child) {
+    margin-left: 1.5rem;
+  }
 }
 
 .contactWrapper {

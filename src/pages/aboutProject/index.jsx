@@ -6,6 +6,11 @@ import arrowEn from '../../assets/images/arrow-en.png';
 import implementationEn from '../../assets/images/implementation-eng.jpg';
 import impactEn from '../../assets/images/impact-en.png';
 import objectiveEn from '../../assets/images/objectives-en.png';
+import arrowSrb from '../../assets/images/arrow-srb.png';
+import implementationSrb from '../../assets/images/implementation-srb.jpg';
+import impactSrb from '../../assets/images/impact-srb.png';
+import objectiveSrb from '../../assets/images/objectives-srb.png';
+
 import * as copy from '../../copy/about-project.json';
 
 import styles from './index.module.scss';
@@ -28,7 +33,7 @@ const AboutProject = () => {
   useEffect(() => {
     const options = { root: null, rootMargin: '-120px', threshold: 0 };
     const myObserver = new IntersectionObserver(callback, options);
-    console.log(implementationRef.current, activitiesRef.current);
+
     myObserver.observe(implementationRef.current);
     myObserver.observe(activitiesRef.current);
     myObserver.observe(impactRef.current);
@@ -36,10 +41,10 @@ const AboutProject = () => {
 
   const imageMap = {
     srb: {
-      arrow: arrowEn,
-      implementation: implementationEn,
-      impact: impactEn,
-      objective: objectiveEn,
+      arrow: arrowSrb,
+      implementation: implementationSrb,
+      impact: impactSrb,
+      objective: objectiveSrb,
     },
     en: {
       arrow: arrowEn,

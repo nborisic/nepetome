@@ -1,32 +1,55 @@
 import Divider from '../divider';
+import { useRef, useEffect } from 'react';
 import cx from 'classnames';
 import styles from './index.module.scss';
 import imagePathEN from '../../assets/images/science-eng.png';
 import imagePathSR from '../../assets/images/science-srb.png';
+import ministry from '../../assets/images/ministry.png';
+import { useLanguage } from '../../components/language-selector/language-hook';
 
 const Sponsors = () => {
-  const language = 'srb';
+  const { language } = useLanguage();
+  const sponsorsRef = useRef(null);
 
   const imagesMap = {
     srb: imagePathSR,
-    eng: imagePathEN,
+    en: imagePathEN,
   };
 
   const linkMap = {
     science: {
       srb: 'http://fondzanauku.gov.rs/',
-      eng: 'http://fondzanauku.gov.rs/?lang=en',
+      en: 'http://fondzanauku.gov.rs/?lang=en',
     },
     ibiss: {
       srb: 'https://www.ibiss.bg.ac.rs/index.php/sr-yu/',
-      eng: 'https://www.ibiss.bg.ac.rs/index.php/en/',
+      en: 'https://www.ibiss.bg.ac.rs/index.php/en/',
+    },
+    ministry: {
+      srb: 'https://mpn.gov.rs/',
+      en: 'https://mpn.gov.rs/',
     },
   };
-  console.log();
+
+  const callback = (entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add(styles.fadeIn);
+      }
+    });
+  };
+
+  useEffect(() => {
+    const options = { root: null, rootMargin: '-120px', threshold: 0 };
+    const myObserver = new IntersectionObserver(callback, options);
+
+    myObserver.observe(sponsorsRef.current);
+  }, []);
+
   return (
     <>
       <Divider />
-      <div className={styles.sponsorWrapper}>
+      <div className={styles.sponsorWrapper} ref={sponsorsRef}>
         <a
           href={linkMap.science[language]}
           className={styles.link}
@@ -37,6 +60,14 @@ const Sponsors = () => {
             className={cx(styles.sponsors, styles.seanceFond)}
             src={imagesMap[language]}
           />
+        </a>
+        <a
+          href={linkMap.ministry[language]}
+          className={styles.link}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img className={styles.sponsors} src={ministry} />
         </a>
         <a
           href={linkMap.ibiss[language]}

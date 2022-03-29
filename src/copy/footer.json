@@ -1,8 +1,18 @@
 {
   "srb": {
-    "institute": "Institut za biološka istraživanja \"Siniša Stanković\"",
+    "institute": "Institut za biološka istraživanja „Siniša Stanković\" Institut od nacionalnog značaja za Republiku Srbiju",
     "social": "Pronađite nas na društvenim mrežama",
-    "location": "Kontaktirajte nas",
+    "email": "E-mail",
+    "contact": "Kontaktirajte nas",
+    "location": "Posetite nas",
     "city": "11000 Beograd"
+  },
+  "en": {
+    "institute": "Institute for Biological Research \"Siniša Stanković\" National Institute of Republic of Serbia",
+    "social": "Find us on social media",
+    "email": "E-mail",
+    "contact": "Contact us",
+    "location": "Visit us",
+    "city": "11000 Belgrade"
   }
 }

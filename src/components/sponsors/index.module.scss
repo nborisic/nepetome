@@ -6,10 +6,15 @@
   align-items: center;
   justify-content: space-around;
   padding: 3rem 0;
+  opacity: 0;
+  transform: translateY(30%);
+  transition: transform 1s, opacity 1s;
 }
 
 .link {
-  // cursor: pointer;
+  display: flex;
+  flex-basis: 25%;
+  justify-content: center;
   opacity: 1;
   transition: opacity $duration-1;
 
@@ -21,13 +26,14 @@
 .sponsors {
   display: block;
   width: auto;
-  max-width: 5rem;
+  // max-width: 5rem;
   height: auto;
   max-height:20rem;
+
   flex-shrink: 0;
 
   @include md {
-    max-width: 20rem;
+    // max-width: 20rem;
   }
 }
 
@@ -37,4 +43,9 @@
   @include md {
     max-width: 30rem;
   }
+}
+
+.fadeIn {
+  opacity: 1;
+  transform: translateY(0);
 }

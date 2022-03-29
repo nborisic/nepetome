@@ -3,13 +3,15 @@ import { ReactComponent as Facebook } from '../../assets/icons/facebook-icon.svg
 import { ReactComponent as Instagram } from '../../assets/icons/instagram-icon.svg';
 import { ReactComponent as Location } from '../../assets/icons/location-icon.svg';
 import { ReactComponent as Twitter } from '../../assets/icons/twitter-icon.svg';
+import { ReactComponent as Email } from '../../assets/icons/email-icon.svg';
 import Container from '../container';
+import { useLanguage } from '../../components/language-selector/language-hook';
 import * as footerCopy from '../../copy/footer.json';
 
 import styles from './index.module.scss';
 
 const Footer = () => {
-  const language = 'srb';
+  const { language } = useLanguage();
 
   return (
     <div className={styles.footer}>
@@ -47,15 +49,15 @@ const Footer = () => {
               </a>
             </div>
           </div>
+
           <div className={styles.innerWrapper}>
             <div className={styles.socialTextWrapper}>
-              <Location className={styles.icon} />
-              <span>{footerCopy[language].location}</span>
+              <Email className={styles.icon} />
+              <span>{footerCopy[language].contact}</span>
             </div>
             <div className={styles.contactWrapper}>
-              {/* TODO hardcoded */}
               <span>
-                E-mail:{' '}
+                {footerCopy[language].email}:{' '}
                 <a
                   href="mailto:nepetome@gmail.com"
                   target="_blank"
@@ -65,6 +67,15 @@ const Footer = () => {
                   nepetome@gmail.com
                 </a>
               </span>
+            </div>
+          </div>
+
+          <div className={styles.innerWrapper}>
+            <div className={styles.socialTextWrapper}>
+              <Location className={styles.icon} />
+              <span>{footerCopy[language].location}</span>
+            </div>
+            <div className={styles.contactWrapper}>
               <a
                 className={styles.iconLink}
                 target="_blank"

@@ -1,63 +1,60 @@
 {
   "srb": {
-    "title": "Omics-guided disentangling of the iridoid diversity in the genus <i>Nepeta</i> L. for in planta metabolic engineering towards sustainable exploitation",
-    "text": "<i>Nepeta</i> L. is the largest genus of the Lamiaceae family, and the exclusive representative of the subfamily Nepetoidae which produces iridoids. Being inspired by multi-level diversity of iridoid compounds within the genus <i>Nepeta</i>, and by their tremendous but underutilised biopesticide potential, NEPETOME aims to elucidate the molecular background of this diversity by comparatively analysing transcriptomes and metabolomes of chemodiverse <i>Nepeta</i> taxa, and to develop meaningful measures to enhance the supply of these compounds for humanity. The challenge ahead is to take advantages of the gathered knowledge to scale up the production of desired iridoids in planta by adopting state-of-the-art metabolic engineering techniques. NEPETOME will target iridoid aglycones with proven biopesticide potential, which are present as major (nepetalactone stereoisomers) or minor constituents (5,9-dehydronepetalactone), and the dominant iridoid glycoside 1,5,9-epideoxyloganic acid. Components of the core iridoid biosynthetic pathway up to nepetalactone have been recently characterised. However, a lot of work still needs to be done in order to reconstruct gene and metabolic networks downstream of nepetalactone, define regulatory mechanisms that drive the productivity of plants, and explain inter- and intra-species diversity of iridoids in this group of plants. Following functional characterization of remaining unknown genes of the pathway leading to desired iridoids, NEPETOME will adopt multigene engineering strategies to transiently or stably introduce and express the genes of interest into heterologous and homologous plants, and thus make the initial steps towards the large-scale production of <i>Nepeta</i> iridoids in plant factories. NEPETOME focusses on innovative and emerging topics supporting the European goal of Bio-based economy (BBE), and its R&D pipeline will deliver technologies to sustainably produce raw materials for biopesticide products, to conquer the market spaces such as animal and human health, and biological control.",
+    "title": "Opisivanje diverziteta iridoida u okviru roda <i>Nepeta</i> L. korišćenjem “omics” tehnologija, u cilju in planta metaboličkog inženjeringa i njihove održive eksploatacije (NEPETOME)",
+    "text": "Rod <i>Nepeta</i> L. je najveći rod familije Lamiaceae, i jedini predstavnik subfamilije Nepetoidae koji se odlikuje proizvodnjom iridoida. Projekat NEPETOME je inspirisan izuzetnim diverzitetom iridoida u okviru roda <i>Nepeta</i>, kao i njihovim nedovoljno iskorišćenim biopesticidnim potencijalom. Projekat ima za cilj da rasvetli molekularne osnove diverziteta iridoida uporednom analizom transkriptoma i metaboloma hemijski diferenciranih predstavnika roda <i>Nepeta</i>. Prikupljeno znanje biće iskoriščeno u cilju intenziviranja proizvodnje ovih značajnih bioaktivnih jedinjenja u in planta biosintetskim platformama, uz upotrebu najsavremenijih metoda metaboličkog inženjeringa. Jedinjenja od interesa u istraživanjima su iridoidni aglikoni koji su dominantno prisutni kod nekih vrsta ovog roda (stereoizomeri nepetalaktona, dehidronepetalakton), kao i iridoidni glukozid 1,5,9-epideoksiloganinska kiselina. Nedavno su rasvetljeni delovi iridoidnog biosintetskog puta koji vode do formiranja nepetalaktona u vrstama roda <i>Nepeta</i>. U okviru projekta NEPETOME biće rekonstruisani metabolički koraci i geni nizvodno od nepetalaktona i oni koji vode ka iridoidnim glukozidima, i biće definisani faktori  koji su bitne odrednice produktivnosti biljaka. Opisivanje diverziteta iridoida na inter- i intra-specijskom  nivou daće uvid u hemijsku evoluciju ove grupe jedinjenja u okviru roda <i>Nepeta</i>. Nakon funkcionalne karakterizacije preostalih nepoznatih gena biosintetskog puta, privremenom ili stabilnom koekspresijom većeg broja gena od interesa u homologim ili heterologim sistemima, biće stvoreni preduslovi za intenziviranje proizvodnje iridoida korišćenjem in planta biosintetskih platformi. Projekat NEPETOME ima za cilj održivu proizvodnju sirovog materijala za biopesticidne proizvode, što je u skladu sa evropskim “Bio-based Economy” standardima, koji se zasnivaju na održivom iskorišćavanju bioloških resursa iz obnovljivih izvora.",
     "objective": {
-      "title": "Objectives",
-      "intro": "The overall project objective is to provide alternative sources of valuable <i>Nepeta</i> sp. iridoids for humanity, to produce them in a sustainable manner, and thus establish a background for their commercialization as biopesticides.",
-      "text": "NEPETOME aims to collect, disentangle and interpret the tremendous diversity of iridoids in the genus <i>Nepeta</i> and take advantages of the gathered knowledge to scale up their production in planta by adopting state-of-the-art metabolic engineering (ME) techniques. At the same time, by adopting omics-guided approach in elucidating the genetic background of the diversity of iridoids within the genus <i>Nepeta</i>, NEPETOME aims to provide fundamental explanations for some of the intriguing aspects of <i>Nepeta</i> biology and chemistry:",
+      "title": "Ciljevi",
+      "intro": "Osnovni cilj projekta je da obezbedi alternativne izvore iridoida iz <i>Nepeta</i> sp., da ih proizvede na održiv način i da uspostavi bazu za njihovu komercijalizaciju kao biopesticida.",
+      "text": "NEPETOME ima za cilj da prikupi, razdvoji i protumači veliki diverzitet iridoida u rodu <i>Nepeta</i> i iskoristi prednosti prikupljenog znanja za povećanje njihove proizvodnje in planta usvajanjem najsavremenijih tehnika metaboličkog inženjeringa (MI). U isto vreme, korišćenjem „omika“  u rasvetljavanju genetske pozadine diverziteta iridoida unutar roda <i>Nepeta</i>, NEPETOME ima za cilj da pruži fundamentalna objašnjenja za neke od intrigantnih aspekata biologije i hemije vrsta ovog roda:",
       "list": [
-        "1) molecular background of iridoids diversity at intra- and inter-species level;",
-        "2) factors responsible for the presence/absence of iridoids or specific groups of iridoids, iridoid aglycones (IAs) and iridoids glucosides (IGs), in these plants;",
-        "3) chemical evolution of IAs and IGs within the genus <i>Nepeta</i>;"
+        "1) molekularne pozadine diverziteta iridoida na intra- i inter-specijskom nivou;",
+        "2) faktore odgovorne za prisustvo/odsustvo iridoida ili specifičnih grupa iridoida, iridoidnih aglikona (IA) i iridoidnih glukozida (IG) u ovim biljkama;",
+        "3) hemijsku evoluciju IA i IG unutar roda <i>Nepeta</i>"
       ]
     },
     "activities": {
-      "name": "Activities",
-      "title": "Impementacija projekta NEPETOME se odvija kroz šest radnih paketa, odnosno četiri istraživačka radna paketa, jednog radnog paketa za upravljanje projektom i jednog radnog paketa za diseminaciju.",
+      "name": "Aktivnosti",
+      "title": "Implementacija projekta NEPETOME odvija se kroz 6 radnih paketa (WP) – 4 istraživačka WP-a i jednog WP-a za diseminaciju.",
       "description": "Prikaz strukturne organizacije rada projekta NEPETOME",
-      "phdTitle": "Dr",
-      "studentTitle": "doktorand",
-      "pi": "rukovodilac projekta",
       "table": [
         {
-          "id": "WP NUMBER",
-          "title": "WP TITLE",
-          "coordinator": "WP COORDINATOR - TEAM MEMBERS' ID"
+          "id": "BROJ WP-A",
+          "title": "NASLOV WP-A",
+          "coordinator": "KOORDINATOR WP-A, BROJ UČESNIKA"
         },
         {
           "id": 1,
-          "title": "Metabolomics for the iridoid diversity assessment",
+          "title": "Metabolomika za procenu diverziteta iridoida",
           "coordinator": "Uroš Gašić - P1"
         },
         {
           "id": 2,
-          "title": "Comparative transcriptomics",
+          "title": "Komparativna tanskriptomika",
           "coordinator": "Branislav Šiler - P2"
         },
         {
           "id": 3,
-          "title": "Gene co-expression analysis",
+          "title": "Analiza ko-ekspresije gena",
           "coordinator": "Marijana Skorić - P4"
         },
         {
           "id": 4,
-          "title": "Functional genomics and metabolic engineering",
+          "title": "Funkcionalna genomika i metabolički inženjering",
           "coordinator": "Dragana Matekalo - P5"
         },
         {
           "id": 5,
-          "title": "Project management",
+          "title": "Upravljanje projektom",
           "coordinator": "Danijela Mišić - PI"
         },
         {
           "id": 6,
-          "title": "Dissemination",
+          "title": "Diseminacija",
           "coordinator": "Milica Milutinović - P9"
         }
       ]
     },
-    "impact": "Expected impact"
+    "impact": "Očekivani uticaj"
   },
   "en": {
     "title": "Omics-guided disentangling of the iridoid diversity in the genus <i>Nepeta</i> L. for inplanta metabolic engineering towards sustainable exploitation",
