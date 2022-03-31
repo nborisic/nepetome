@@ -27,3 +27,14 @@
   cursor: pointer;
   object-fit: cover;
 }
+
+.grid  a {
+  animation: fade-in 0.3s ease-in forwards;
+  opacity: 0;
+
+  @for $i from 0 through 10 {
+    &:nth-child(#{$i}) {
+      animation-delay: $i * 0.15s;
+    }
+  }
+}

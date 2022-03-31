@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import * as copy from '../../copy/home.json';
 import * as tabs from '../../copy/navigation.json';
 import Sponsors from '../../components/sponsors';
@@ -8,11 +9,20 @@ import routes from '../../utils/routes';
 import HomepageCards from '../../components/homepage-cards';
 import { useLanguage } from '../../components/language-selector/language-hook';
 import { Link } from 'react-router-dom';
+import NewsCard from '../../components/newsCard';
+import imageMap from '../../utils/imageMap';
 
 import styles from './index.module.scss';
 
 const Homepage = () => {
   const { language } = useLanguage();
+
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  }, []);
 
   return (
     <Container className={styles.homepage}>
@@ -34,11 +44,10 @@ const Homepage = () => {
           {copy[language].description}
         </HomepageCards>
         <HomepageCards
-          title={tabs[language].news}
           linkHref={routes.news}
           linkText={copy[language].newsLinkText}
         >
-          Novosti text
+          <NewsCard {...copy[language].latestNews} imageMap={imageMap} />
         </HomepageCards>
       </div>
       <Link to={routes.participants}>

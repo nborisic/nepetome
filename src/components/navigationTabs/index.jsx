@@ -25,7 +25,12 @@ const NavigationTabs = () => {
               to={routes[link]}
               className={tabClasses}
               key={link}
-              onClick={() => window.scrollTo(0, 0)}
+              onClick={() =>
+                window.scrollTo({
+                  top: 0,
+                  behavior: 'smooth',
+                })
+              }
             >
               {tabs[language][link]}
             </Link>

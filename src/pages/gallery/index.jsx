@@ -36,26 +36,28 @@ const Gallery = () => {
   return (
     <Main className={styles.main}>
       <Header title="gallery" />
-      {images && (
-        <LightGallery mode="lg-slide" download={false}>
-          {images?.map(image => {
-            return (
-              <a
-                className={styles.ratio}
-                key={image.href}
-                data-src={image.href}
-                data-sub-html={
-                  image.caption[language]
-                    ? `<h3>${image.caption[language]}</h3>`
-                    : null
-                }
-              >
-                <img className={styles.galleryItem} src={image.href} />
-              </a>
-            );
-          })}
-        </LightGallery>
-      )}
+      <div className={styles.grid}>
+        {images && (
+          <LightGallery mode="lg-slide" download={false}>
+            {images?.map(image => {
+              return (
+                <a
+                  className={styles.ratio}
+                  key={image.href}
+                  data-src={image.href}
+                  data-sub-html={
+                    image.caption[language]
+                      ? `<h3>${image.caption[language]}</h3>`
+                      : null
+                  }
+                >
+                  <img className={styles.galleryItem} src={image.href} />
+                </a>
+              );
+            })}
+          </LightGallery>
+        )}
+      </div>
     </Main>
   );
 };
