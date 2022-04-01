@@ -13,18 +13,10 @@
 }
 
 .errorHandlerTitle {
-  line-height: 40px;
+  @include header2;
 }
 
 .errorHandlerText {
   @include body;
 }
 
-.errorHandlerReload {
-  @include body;
-  margin: 0 5px;
-  color: $blue;
-  cursor: pointer;
-  font-weight: bold;
-  transition: color $duration-1;
-}
