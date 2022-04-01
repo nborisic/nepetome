@@ -26,6 +26,7 @@ const Homepage = () => {
 
   return (
     <Container className={styles.homepage}>
+      <MetaData language={language} />
       <div
         className={styles.title}
         dangerouslySetInnerHTML={{
