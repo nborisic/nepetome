@@ -1,4 +1,14 @@
-.header {
+@import 'src/style/base.scss';
+
+.headerWrapper {
   margin-bottom: 40px;
+
+  @include lg {
+    margin-top: 20px;
+  }
+}
+
+.header {
   text-align: center;
+  @include header2;
 }

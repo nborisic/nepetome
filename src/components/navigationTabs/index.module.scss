@@ -3,7 +3,7 @@
 .wrapper {
   display: none;
 
-  @include md {
+  @include lg {
     display: flex;
     align-items: flex-end;
   }

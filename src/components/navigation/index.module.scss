@@ -32,7 +32,8 @@
 
 .hamburger {
   margin-bottom: 15px;
-  @include md {
+
+  @include lg {
     display: none;
   }
 }

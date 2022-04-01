@@ -20,6 +20,8 @@ const Publications = () => {
               href={publication.link}
               key={publication.link}
               className={styles.link}
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <li
                 dangerouslySetInnerHTML={{

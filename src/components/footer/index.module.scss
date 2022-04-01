@@ -8,7 +8,7 @@
   line-height: 2.4rem;
 
 
-  @include md {
+  @include lg {
     flex-direction: row;
   }
 }
@@ -38,14 +38,8 @@
 .innerWrapper {
   flex-basis: 31%;
 
-  &:first-child {
+  &:not(:last-child) {
     margin-bottom: 3rem;
-  }
-
-  @include md {
-    &:first-child {
-      margin-bottom: 0;
-    }
   }
 }
 

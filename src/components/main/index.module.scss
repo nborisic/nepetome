@@ -3,8 +3,12 @@
 .main {
   max-width: $container-max-width;
   min-height: calc(var(--vh) * 100 - #{$header-height-sm} - #{$footer-height-lg});
-  padding:  3rem $container-padding 7rem $container-padding ;
+  padding:  3rem $container-padding-sm 7rem $container-padding-sm ;
   margin: 0 auto;
+
+  @include md {
+    padding:  3rem $container-padding 7rem $container-padding ;
+  }
 }
 
 

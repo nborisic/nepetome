@@ -16,16 +16,17 @@ const Header = ({ title, override = false }) => {
   }, []);
 
   return (
-    <div className={styles.header}>
+    <div className={styles.headerWrapper}>
       <h1>
         {override ? (
           <div
+            className={styles.header}
             dangerouslySetInnerHTML={{
               __html: title,
             }}
           />
         ) : (
-          tabs[language][title]
+          <div className={styles.header}>{tabs[language][title]}</div>
         )}
       </h1>
       <Divider />

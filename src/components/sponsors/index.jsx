@@ -57,7 +57,7 @@ const Sponsors = () => {
           rel="noopener noreferrer"
         >
           <img
-            className={cx(styles.sponsors, styles.seanceFond)}
+            className={cx(styles.sponsors, styles.scienceFond)}
             src={imagesMap[language]}
           />
         </a>

@@ -7,18 +7,33 @@
 }
 
 .logo {
-  width: 60%;
+  width: 100%;
   margin: 0 auto;
+
+  @include md {
+    width: 80%;
+  }
+
+  @include lg {
+    width: 60%;
+  }
 }
 
 .title {
-  margin: 6rem auto 4rem;
+  margin: 3rem auto 4rem;
   color: $red;
+  text-align: center;
   @include header2;
 
   @include md {
-    width: 85%;
+    // width: 85%;
+    margin: 4rem auto;
     text-align: center;
+  }
+
+  @include lg {
+    width: 85%;
+    margin: 6rem auto 4rem;
   }
 }
 
@@ -32,7 +47,7 @@
   justify-content: space-between;
   padding: 4rem 0;
 
-  @include md {
+  @include lg {
     flex-direction: row;
   }
 }
