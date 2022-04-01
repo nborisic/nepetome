@@ -21,7 +21,6 @@ const Gallery = () => {
       `https://res.cloudinary.com/${cloudName}/image/list/${token}.json`,
     );
     const images = resources.map(image => {
-      console.log(image);
       return {
         href: `https://res.cloudinary.com/${cloudName}/image/upload/v${image.version}/${image.public_id}.${image.format}`,
         caption: {

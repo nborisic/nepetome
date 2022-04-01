@@ -3,7 +3,7 @@ import cx from 'classnames';
 import { useSearchParams } from 'react-router-dom';
 import { useLanguage } from '../../components/language-selector/language-hook';
 import Main from '../../components/main';
-import * as bio from '../../copy/bio.json';
+import bio from '../../copy/bio.json';
 import { bioMap } from '../participants';
 
 import styles from './index.module.scss';
@@ -13,7 +13,7 @@ const Bio = () => {
   let [searchParams] = useSearchParams();
   const userId = searchParams.get('id');
   const biography = bio[language];
-  const userBio = biography.teamMembers[userId];
+  const userBio = biography.teamMembers[userId || 0];
 
   useEffect(() => {
     window.scrollTo({

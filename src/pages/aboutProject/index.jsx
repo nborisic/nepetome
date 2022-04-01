@@ -24,7 +24,6 @@ const AboutProject = () => {
   const callback = (entries, observer) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        console.log('entry', entry);
         entry.target.classList.add(styles.fadeIn);
       }
     });
