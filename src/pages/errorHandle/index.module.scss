@@ -1,0 +1,30 @@
+@import 'src/style/base.scss';
+
+.errorHandler {
+  padding-top: 40px;
+
+  @include md {
+    padding-top: 60px;
+  }
+
+  @include lg {
+    padding-top: 80px;
+  }
+}
+
+.errorHandlerTitle {
+  line-height: 40px;
+}
+
+.errorHandlerText {
+  @include body;
+}
+
+.errorHandlerReload {
+  @include body;
+  margin: 0 5px;
+  color: $blue;
+  cursor: pointer;
+  font-weight: bold;
+  transition: color $duration-1;
+}

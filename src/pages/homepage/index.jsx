@@ -11,6 +11,7 @@ import { useLanguage } from '../../components/language-selector/language-hook';
 import { Link } from 'react-router-dom';
 import NewsCard from '../../components/newsCard';
 import imageMap from '../../utils/imageMap';
+import MetaData from '../../components/metaData';
 
 import styles from './index.module.scss';
 

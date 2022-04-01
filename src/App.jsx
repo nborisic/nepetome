@@ -6,6 +6,7 @@ import News from './pages/news';
 import Participants from './pages/participants';
 import Publications from './pages/publications';
 import AboutProject from './pages/aboutProject';
+import ErrorHandler from './pages/errorHandle';
 import Bio from './pages/bio';
 
 import { LanguageProvider } from './components/language-selector/index.context';
@@ -22,6 +23,7 @@ function App() {
           <Route path="/about-project" element={<AboutProject />} />
           <Route path="/publications" element={<Publications />} />
           <Route path="/bio" element={<Bio />} />
+          <Route path="/*" element={<ErrorHandler />} />
         </Routes>
       </Layout>
     </LanguageProvider>
