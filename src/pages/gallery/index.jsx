@@ -24,8 +24,8 @@ const Gallery = () => {
       return {
         href: `https://res.cloudinary.com/${cloudName}/image/upload/v${image.version}/${image.public_id}.${image.format}`,
         caption: {
-          srb: image.context.custom.srb,
-          en: image.context.custom.caption,
+          srb: image?.context?.custom?.srb,
+          en: image?.context?.custom?.caption,
         },
       };
     });
@@ -45,7 +45,7 @@ const Gallery = () => {
                   key={image.href}
                   data-src={image.href}
                   data-sub-html={
-                    image.caption[language]
+                    image.caption?.[language]
                       ? `<h3>${image.caption[language]}</h3>`
                       : null
                   }
