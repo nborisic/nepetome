@@ -5,7 +5,8 @@
     "email": "E-mail",
     "contact": "Kontaktirajte nas",
     "location": "Posetite nas",
-    "city": "11000 Beograd"
+    "city": "11000 Beograd",
+    "logo": "Logo dizajnirao"
   },
   "en": {
     "institute": "Institute for Biological Research \"Siniša Stanković\" National Institute of Republic of Serbia",
@@ -13,6 +14,7 @@
     "email": "E-mail",
     "contact": "Contact us",
     "location": "Visit us",
-    "city": "11000 Belgrade"
+    "city": "11000 Belgrade",
+    "logo": "Logo designed by"
   }
 }

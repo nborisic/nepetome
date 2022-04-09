@@ -89,6 +89,9 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <div className={styles.logo}>
+          {footerCopy[language].logo} Dejan Matekalo
+        </div>
       </Container>
     </div>
   );
