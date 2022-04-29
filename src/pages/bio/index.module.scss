@@ -12,11 +12,17 @@
 
 .topCard {
   display: flex;
+  flex-direction: column;
 
+  @include md {
+    flex-direction: row;
+  }
 }
 
 .generalInfo {
-  margin-left: 2rem;
+  @include md {
+    margin-left: 2rem;
+  }
 }
 
 .bioImage {
@@ -43,6 +49,7 @@
   color: $blue;
   opacity: 1;
   transition: opacity $duration-2;
+  word-wrap: break-word;
 
   &:hover {
     opacity: 0.8;
@@ -50,13 +57,20 @@
 }
 
 .scopusWrapper {
-  display: flex;
+  display: block;
+
+  @include md {
+    display: flex;
+  }
 }
 
 .scopus {
   display: flex;
   flex-direction: column;
-  margin-left: 0.5rem;
+
+  @include md {
+    margin-left: 0.5rem;
+  }
 }
 
 .bio {
