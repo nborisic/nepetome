@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import * as copy from '../../copy/home.json';
+import * as news from '../../copy/news.json';
 import * as tabs from '../../copy/navigation.json';
 import Sponsors from '../../components/sponsors';
 import Container from '../../components/container';
@@ -49,7 +50,10 @@ const Homepage = () => {
           linkHref={routes.news}
           linkText={copy[language].newsLinkText}
         >
-          <NewsCard {...copy[language].latestNews} imageMap={imageMap} />
+          <NewsCard
+            {...news[language][news[language].length - 1]}
+            imageMap={imageMap}
+          />
         </HomepageCards>
       </div>
       <Link to={routes.participants}>
