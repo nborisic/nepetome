@@ -7,9 +7,11 @@ const NewsCard = ({ imageId, newsId, title, date, imageMap }) => {
   return (
     <div>
       <Link to={`/news?id=${newsId}`} className={styles.card}>
-        <div className={styles.imageWrapper}>
-          <img src={imageMap[imageId]} className={styles.image} />
-        </div>
+        {imageId && (
+          <div className={styles.imageWrapper}>
+            <img src={imageMap[imageId]} className={styles.image} />
+          </div>
+        )}
         <div
           className={styles.text}
           dangerouslySetInnerHTML={{

@@ -36,3 +36,58 @@
   object-fit: contain;
 }
 
+.canvasWrapper canvas {
+  width: 351px !important;
+  height: 454px !important;
+  // width: 375px !important;
+  margin: -30px auto 0;
+  // transform-origin: top left;
+
+  @include md {
+    width: 494px !important;
+    height: 639px !important;
+  }
+
+  @include lg {
+    width: 992px !important;
+    height: 1283px !important;
+  }
+}
+
+.buttonContainer {
+  display: flex;
+  width: 100%;
+  justify-content:center;
+}
+
+.button {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+  border-radius: 50%;
+  box-shadow: $box-shadow;
+  transform: rotate(90deg);
+
+  &:last-child {
+    margin-left: 10px;
+    transform: rotate(270deg)
+  }
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.disabled {
+  border-color: #1010104d;
+  cursor: default;
+}
+
+:global(.react-pdf__Page__textContent),
+:global(.react-pdf__Page__annotations) {
+  display: none;
+}
+
