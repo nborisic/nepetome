@@ -9,7 +9,8 @@
       "newsId": 1,
       "date": "April 01, 2022"
     },
-    "newsLinkText": "Sve novosti"
+    "newsLinkText": "Sve novosti",
+    "sponsorDesc": "Istraživanje sprovedeno uz podršku Fonda za nauku Republike Srbije, BROJ PROJEKTA 7749433, Opisivanje diverziteta iridoida u okviru roda <i>Nepeta</i> L. korišćenjem <i>“omics”</i> tehnologija, u cilju <i>in planta</i> metaboličkog inženjeringa i njihove održive eksploatacije - NEPETOME"
   },
   "en": {
     "title": "Omics-guided disentangling of the iridoid diversity in the genus <i>Nepeta</i> L. for in planta metabolic engineering towards sustainable exploitation",
@@ -21,6 +22,7 @@
       "newsId": 1,
       "date": "April 01, 2022"
     },
-    "newsLinkText": "All news"
+    "newsLinkText": "All news",
+    "sponsorDesc": "This research was supported by the Science Fund of the Republic of Serbia, #GRANT No 7749433, Omics-guided disentangling of the iridoid diversity in the genus <i>Nepeta</i> L. for in planta metabolic engineering towards sustainable exploitation - NEPETOME"
   }
 }

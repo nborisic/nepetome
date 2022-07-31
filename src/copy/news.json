@@ -23,6 +23,20 @@
       "type": "pdf",
       "pdfId": 1,
       "text": ""
+    },
+    {
+      "title": "Najava radionice projekta NEPETOME",
+      "imageId": 4,
+      "newsId": 4,
+      "date": "Jul 31, 2022",
+      "text": "<br/><p>U okviru projekta “Omics-guided disentangling of the iridoid diversity in the genus <i>Nepeta</i> L. for in planta metabolic engineering towards sustainable exploitation” (NEPETOME), finansiranog od strane Fonda za nauku Republike Srbije, bice odžana radionica <b>“Metodologija proucavanja raznovrsnosti iridoidnih jedinjenja kod predstavnika roda <i>Nepeta</i>”.</b></p><br/><p>Radionica će biti održana 06. oktobra 2022. godine u Botaničkoj bašti “Jevremovac” u Beogradu.</p><br/><p>Učestvuju: dr Uroš Gašić, dr Jasmina Nestorović Živković, dr Slavica Dmitrović, dr Dragana Matekalo, dr Branislav Šiler, dr Tijana Banjanac, dr Jelena Božunović, dr Neda Aničić i Luka Petrović sa Instituta za biološka istrażivanja “Siniša Stanković” - Institut od nacionalnog značaja za Republiku Srbiju, Univerziteta u Beogradu.</p><br/><p>Predavanje u okviru radionice imaju za cilj da učesnike upoznaju sa biologijom različitih vrsta roda <i>Nepeta</i> kao i mogućnostima upotrebe najsavremenijih metoda metaboličkog inženjeringa u cilju intenziviranja proizvodnje iridioida u <i>in planta</i> biosintetiskim platformama.</p><br/><p>Program predavanja biće naknadno objavljen.</p>"
+    },
+    {
+      "title": "Izveštaj sa terena",
+      "imageId": 5,
+      "newsId": 5,
+      "date": "Septembar 01, 2022",
+      "text": "<br/><p>Tokom juna i jula 2022. godine naši istraživači su obišli sledeće lokacije: Goč, Suboticu, Ramski pesak, Majdanpek, Rtanj, Staru planinu, Vlasinsko jezero i Besnu kobilu. Ukupno je sakupljeno 12 populacija vrste Nepeta nuda i 4 populacija vrste Nepeta cataria. Do sledećeg leta, javljamo se iz laboratorije!</p>"
     }
   ],
   "en": [
@@ -49,6 +63,20 @@
       "type": "pdf",
       "pdfId": 1,
       "text": ""
+    },
+    {
+      "title": "Project NEPETOME workshop announcement",
+      "imageId": 4,
+      "newsId": 4,
+      "date": "July 31, 2022",
+      "text": "<br/><p>Project “Omics-guided disentangling of the iridoid diversity in the genus <i>Nepeta</i> L. for <i>in planta</i> metabolic engineering towards sustainable exploitation” (NEPETOME), supported by the Science Fund of the Republic of Serbia, #Grant No 7749433, organize a one-day workshop on <b>“Methodology of iridoids diversity investigation within the genus <i>Nepeta</i>”</b> that will take place on 6th October 2022 at Botanical garden “Jevremovac” in Belgrade. The workshop is organized for postgraduate and PhD students whose work focuses on plant physiology and molecular biology.</p><br/><p>The lectures within the workshop aim to introduce the participants to the biology of different Nepeta species, as well as the possibilities of using the most modern methods of metabolic engineering, thus making the initial steps towards the large-scale production of Nepeta iridoids in plant factories. The participants will have the opportunity to interlink diverse theoretical concepts with cutting-edge methodology for their validation.</p><br/><p>Selected speakers are Dr. Uroš Gašić, Dr. Jasmina Nestorović Živković, Dr. Slavica Dmitrović, Dr. Dragana Matekalo, Dr. Branislav Šiler, Dr. Tijana Banjanac, Dr. Jelena Božunović, Dr. Neda Aničić and PhD student Luka Petrović from the Institute for Biological Research “Siniša Stanković” - National Institute of the Republic of Serbia, University of Belgrade.</p><br><p>NEPETOME Workshop 2022 is envisioned to help students in their professional development, as well as their networking opportunities. Students are expected to take an active role in discussions on various topics.</p><br/><p>For more details regarding the workshop program, selected teachers, eligibility, application process and deadline please review the descriptions on our website.</p>"
+    },
+    {
+      "title": "Field report",
+      "imageId": 5,
+      "newsId": 5,
+      "date": "September 01, 2022",
+      "text": "<br/><p>During June and July 2022, our researchers have visited the following locations: Subotica, Ramski Pesak, Majdanpek, Vlasina Lake and mountains Rtanj, Stara Planina, Goč and Besna Kobila. A total of 12 populations of the species Nepeta nuda and 4 populations of the species Nepeta cataria were collected. Until next summer and new field trips, follow our news from the wet lab!</p>"
     }
   ]
 }

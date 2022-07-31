@@ -10,15 +10,11 @@
   opacity: 0;
   transform: translateY(30%);
   transition: transform 1s, opacity 1s;
-
-  @include md {
-    flex-direction: row;
-  }
 }
 
 .link {
   display: flex;
-  flex-basis: 25%;
+  flex-basis: 50%;
   flex-shrink: 0;
   justify-content: center;
 
@@ -38,14 +34,32 @@
       margin-bottom: 0;
     }
   }
+}
 
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 4rem;
+}
+
+.sponsorsContainer {
+  display: flex;
+  width: 100%;
+  flex-basis: 100%;
+  flex-direction: column;
+  align-items: center;
+
+  @include md {
+    flex-direction: row;
+    padding: 2rem;
+  }
 }
 
 .sponsors {
   display: block;
   width: auto;
   width: 100%;
-  // max-width: 5rem;
   height: auto;
   max-height:20rem;
 
@@ -53,7 +67,7 @@
 
   @include md {
     &:last-child {
-      height: 4rem;
+      height: 8rem;
       object-fit: contain;
     }
   }
@@ -65,14 +79,10 @@
     }
   }
 
-  @include md {
-    // max-width: 20rem;
-  }
 }
 
 .scienceFond {
   width: 100%;
-  // max-width: 12rem;
 
   @include md {
     max-width: 30rem;
@@ -82,4 +92,9 @@
 .fadeIn {
   opacity: 1;
   transform: translateY(0);
+}
+
+.text {
+  padding-top: 1rem;
+  text-align: center;
 }

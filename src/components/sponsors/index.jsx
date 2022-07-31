@@ -2,6 +2,7 @@ import Divider from '../divider';
 import { useRef, useEffect } from 'react';
 import cx from 'classnames';
 import styles from './index.module.scss';
+import * as copy from '../../copy/home.json';
 import imagePathEN from '../../assets/images/science-eng.png';
 import imagePathSR from '../../assets/images/science-srb.png';
 import ministry from '../../assets/images/ministry.png';
@@ -50,36 +51,45 @@ const Sponsors = () => {
     <>
       <Divider />
       <div className={styles.sponsorWrapper} ref={sponsorsRef}>
-        <a
-          href={linkMap.science[language]}
-          className={styles.link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            className={cx(styles.sponsors, styles.scienceFond)}
-            src={imagesMap[language]}
+        <div className={cx(styles.link, styles.textContainer)}>
+          <a
+            href={linkMap.science[language]}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className={cx(styles.sponsors, styles.scienceFond)}
+              src={imagesMap[language]}
+            />
+          </a>
+          <div
+            className={styles.text}
+            dangerouslySetInnerHTML={{
+              __html: copy[language].sponsorDesc,
+            }}
           />
-        </a>
-        <a
-          href={linkMap.ministry[language]}
-          className={styles.link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img className={styles.sponsors} src={ministry} />
-        </a>
-        <a
-          href={linkMap.ibiss[language]}
-          className={styles.link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            className={styles.sponsors}
-            src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.opasuljise.rs/wp-content/uploads/2020/10/Ibiss_LOGO_web.png"
-          />
-        </a>
+        </div>
+        <div className={styles.sponsorsContainer}>
+          <a
+            href={linkMap.ministry[language]}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img className={styles.sponsors} src={ministry} />
+          </a>
+          <a
+            href={linkMap.ibiss[language]}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className={styles.sponsors}
+              src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.opasuljise.rs/wp-content/uploads/2020/10/Ibiss_LOGO_web.png"
+            />
+          </a>
+        </div>
       </div>
     </>
   );

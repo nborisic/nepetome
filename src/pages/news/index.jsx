@@ -74,32 +74,37 @@ const News = () => {
             />
           )}
           <Markdown content={copy[language][newsIndex].text} />
-          <div className={styles.canvasWrapper}>
-            <Document
-              file={pdfMap[copy[language][newsIndex].pdfId]}
-              onLoadSuccess={onDocumentLoadSuccess}
-            >
-              <Page pageNumber={pageNumber} />
-            </Document>
-          </div>
-          <div className={styles.buttonContainer}>
-            <button
-              className={buttonPrevClassNames}
-              type="button"
-              disabled={pageNumber <= 1}
-              onClick={previousPage}
-            >
-              <Chevron />
-            </button>
-            <button
-              className={buttonNextClassNames}
-              type="button"
-              disabled={pageNumber >= numPages}
-              onClick={nextPage}
-            >
-              <Chevron />
-            </button>
-          </div>
+          {copy[language][newsIndex].pdfId && (
+            <>
+              <div className={styles.canvasWrapper}>
+                <Document
+                  file={pdfMap[copy[language][newsIndex].pdfId]}
+                  onLoadSuccess={onDocumentLoadSuccess}
+                >
+                  <Page pageNumber={pageNumber} />
+                </Document>
+              </div>
+
+              <div className={styles.buttonContainer}>
+                <button
+                  className={buttonPrevClassNames}
+                  type="button"
+                  disabled={pageNumber <= 1}
+                  onClick={previousPage}
+                >
+                  <Chevron />
+                </button>
+                <button
+                  className={buttonNextClassNames}
+                  type="button"
+                  disabled={pageNumber >= numPages}
+                  onClick={nextPage}
+                >
+                  <Chevron />
+                </button>
+              </div>
+            </>
+          )}
         </div>
       ) : (
         <div className={styles.grid}>
